@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "image-build-5",
+  buildVersion: "reason-build-6",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=5").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=5").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=5").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=6").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=6").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=6").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -199,7 +199,7 @@ function renderLearning() {
         ${state.learning.shuffled.map((choice) => optionButton(choice, state.learning.selected, state.learning.confirmed, question.correctChoice, "select-learning")).join("")}
       </div>
       <div class="actions">
-        <button class="primary" data-action="confirm-learning" ${!state.learning.selected || state.learning.confirmed ? "disabled" : ""}>Confirm</button>
+        <button class="primary" data-action="confirm-learning" ${!state.learning.selected || state.learning.confirmed ? "disabled" : ""}>Check</button>
         <button data-action="prev-learning">Previous</button>
         <button data-action="next-learning">Next</button>
       </div>
@@ -225,11 +225,16 @@ function renderResult(correct, question) {
       <strong>${correct ? "Correct" : "Incorrect"}</strong>
       <p>The correct answer is: ${escapeHtml(question.correctChoice)}</p>
       <div class="reason">
-        <h3>Handbook reason</h3>
-        ${question.handbookRefs.map((ref) => `<article><b>${escapeHtml(ref.sectionTitle || "Road User Handbook")} · page ${ref.page}</b><p>${escapeHtml(ref.excerpt)}</p></article>`).join("")}
+        <h3>Reason</h3>
+        <p>${escapeHtml(question.reason || fallbackReason(question))}</p>
+        ${question.handbookRefs.length ? `<div class="references"><b>Handbook reference</b>${question.handbookRefs.map((ref) => `<span>${escapeHtml(ref.sectionTitle || "Road User Handbook")} · page ${ref.page}</span>`).join("")}</div>` : ""}
       </div>
     </div>
   `;
+}
+
+function fallbackReason(question) {
+  return `The correct answer is: ${question.correctChoice} This is the legal or safest action for the situation described.`;
 }
 
 function renderMock() {
@@ -264,7 +269,7 @@ function renderMock() {
         ${item.choices.map((choice) => optionButton(choice, mock.selected, mock.confirmed, question.correctChoice, "select-mock")).join("")}
       </div>
       <div class="actions">
-        <button class="primary" data-action="confirm-mock" ${!mock.selected || mock.confirmed ? "disabled" : ""}>Confirm</button>
+        <button class="primary" data-action="confirm-mock" ${!mock.selected || mock.confirmed ? "disabled" : ""}>Check</button>
         <button data-action="next-mock" ${!mock.confirmed ? "disabled" : ""}>Next</button>
       </div>
     </section>

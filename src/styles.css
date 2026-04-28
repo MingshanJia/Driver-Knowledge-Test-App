@@ -289,6 +289,22 @@ select {
   gap: 10px;
 }
 
+.references {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  color: #435267;
+  font-size: 14px;
+}
+
+.references span {
+  border: 1px solid #c9d5df;
+  background: #ffffff;
+  border-radius: 999px;
+  padding: 5px 9px;
+}
+
 .reason article,
 .handbook-list article,
 .review-list article,
