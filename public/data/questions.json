@@ -21,7 +21,8 @@
         "sectionTitle": "Handbook",
         "excerpt": "Road Users\u2019 Handbook 2 Whether you are a new or an experienced driver, the Road Users\u2019 Handbook provides practical information on NSW road rules as well as road safety, low risk driving, vehicle registration and penalties for driving offences. The road rules are a framework for the safe and efficient movement of traffic on NSW roads. This updated handbook is..."
       }
-    ]
+    ],
+    "sourcePage": 1
   },
   {
     "id": "icac2",
@@ -45,7 +46,8 @@
         "sectionTitle": "Blood tests",
         "excerpt": "Road Users\u2019 Handbook 43 Blood tests Any driver or supervising driver involved in a crash may be breath tested. Blood tests will also be taken if you are admitted to hospital with injuries from a crash. Refusal to have a blood analysis can result in significant penalties, including fines, loss of licence or imprisonment. Effects of drugs on driving Drugs othe..."
       }
-    ]
+    ],
+    "sourcePage": 1
   },
   {
     "id": "icac3",
@@ -69,7 +71,8 @@
         "sectionTitle": "Blood tests",
         "excerpt": "Road Users\u2019 Handbook 43 Blood tests Any driver or supervising driver involved in a crash may be breath tested. Blood tests will also be taken if you are admitted to hospital with injuries from a crash. Refusal to have a blood analysis can result in significant penalties, including fines, loss of licence or imprisonment. Effects of drugs on driving Drugs othe..."
       }
-    ]
+    ],
+    "sourcePage": 1
   },
   {
     "id": "cg001",
@@ -93,7 +96,8 @@
         "sectionTitle": "Summary",
         "excerpt": "Road Users\u2019 Handbook 7 Railway crossings without signals ......................... 147 Driving distractions and crash risk ......................... 148 Sources of distractions that lead to crashes ................. 148 Passengers and crash risk .............................. 148 Reducing distractions means reducing crash risk ............. 149 Towing ........."
       }
-    ]
+    ],
+    "sourcePage": 2
   },
   {
     "id": "cg002",
@@ -117,7 +121,8 @@
         "sectionTitle": "Provisional P2 licences",
         "excerpt": "Road Users\u2019 Handbook 24 Provisional P2 licences A provisional stage 2 (P2) driver licence is issued when you have held a P1 licence for at least 12 months and applied to upgrade to a P2 licence. You can also get a P2 licence if you have held a current interstate or overseas licence of a similar type for more than one year but less than three years. A P2 lice..."
       }
-    ]
+    ],
+    "sourcePage": 2
   },
   {
     "id": "cg006",
@@ -141,7 +146,8 @@
         "sectionTitle": "This means that no other road",
         "excerpt": "Road Users\u2019 Handbook 177 Safe gap - a gap in traffic that enables you to turn, overtake or cross an intersection without being involved in a collision or endangering other road users. This means that no other road users should need to take evasive action to avoid your vehicle. Scanning - constantly moving your eyes when driving so that you can detect hazards..."
       }
-    ]
+    ],
+    "sourcePage": 2
   },
   {
     "id": "cg007",
@@ -165,7 +171,8 @@
         "sectionTitle": "Plan ahead",
         "excerpt": "Road Users\u2019 Handbook 91 Plan ahead You need to think ahead in order to stay in the same lane as you drive from one road to another. The diagram shows a situation that calls for planning ahead. Car A needs to turn left into the road marked X. It is best to turn right from the left lane to make it easy to turn left into road X. Follow the instruction of any ro..."
       }
-    ]
+    ],
+    "sourcePage": 2
   },
   {
     "id": "cg010",
@@ -189,7 +196,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 2
   },
   {
     "id": "cg013",
@@ -213,7 +221,9 @@
         "sectionTitle": "Pedestrians may be",
         "excerpt": "Road Users\u2019 Handbook 114 Stop sign ahead. Pedestrian crossing ahead. Pedestrians may be crossing ahead. Children may be crossing ahead. Hospital ahead. Drive carefully. Look out for bicycle riders. Road is slippery when wet. Steep descent ahead. Beware of slow moving vehicles entering traffic. This sign is used where a temporary emergency situation such as a..."
       }
-    ]
+    ],
+    "sourcePage": 3,
+    "imageId": "images/questions/cg013.png"
   },
   {
     "id": "cg014",
@@ -237,7 +247,8 @@
         "sectionTitle": "Blood tests",
         "excerpt": "Road Users\u2019 Handbook 43 Blood tests Any driver or supervising driver involved in a crash may be breath tested. Blood tests will also be taken if you are admitted to hospital with injuries from a crash. Refusal to have a blood analysis can result in significant penalties, including fines, loss of licence or imprisonment. Effects of drugs on driving Drugs othe..."
       }
-    ]
+    ],
+    "sourcePage": 3
   },
   {
     "id": "cg016",
@@ -261,7 +272,8 @@
         "sectionTitle": "T-intersection without traffic",
         "excerpt": "Road Users\u2019 Handbook 136 \u2022 Within 10 metres before and three metres after a marked foot cross - ing with traffic signals \u2022 Within one metre of a fire hydrant, fire hydrant indicator or fire plug indicator \u2022 On a railway level crossing \u2022 Within 20 metres before and after a railway level crossing (see below). When you are parking on a hill or a curve outside a..."
       }
-    ]
+    ],
+    "sourcePage": 3
   },
   {
     "id": "cg017",
@@ -285,7 +297,8 @@
         "sectionTitle": "Parking restrictions",
         "excerpt": "Road Users\u2019 Handbook 138 Parking restrictions If you park in places such as clearways or no parking zones, you may restrict traffic flow and create danger for other road users and residents. You must obey all parking signs. Accessible parking Only vehicles transporting a current Mobility Parking Scheme (MPS) permit holder can park in areas displaying this si..."
       }
-    ]
+    ],
+    "sourcePage": 3
   },
   {
     "id": "cg018",
@@ -309,7 +322,8 @@
         "sectionTitle": "What to do after a crash",
         "excerpt": "Road Users\u2019 Handbook 151 What to do after a crash If you are involved in a crash you must stop immediately and give as much help as possible to anyone else involved in the crash. If anyone is injured or killed, you should call the Police and Ambulance - dial 000. You should protect the area to make sure that another crash does not occur. You must remove anyt..."
       }
-    ]
+    ],
+    "sourcePage": 4
   },
   {
     "id": "cg027",
@@ -333,7 +347,8 @@
         "sectionTitle": "Restricted parking areas",
         "excerpt": "Road Users\u2019 Handbook 140 Restricted parking areas Restricted parking areas are used in large public areas that usually have a limited number of entry and exit points, such as Darling Harbour and Homebush Bay. You must not stop or park your vehicle, between the signs RESTRICTED PARKING AREA and END RESTRICTED PARKING AREA, except in a parking station or in a..."
       }
-    ]
+    ],
+    "sourcePage": 4
   },
   {
     "id": "cg028",
@@ -357,7 +372,9 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 4,
+    "imageId": "images/questions/cg028.png"
   },
   {
     "id": "cg029",
@@ -381,7 +398,8 @@
         "sectionTitle": "Explosive - something that is",
         "excerpt": "Road Users\u2019 Handbook 174 and the licence is therefore no longer valid. Explosive - something that is dangerous as it may blow up. Expressway - see motorway. Fatal - something that results in death. Fatigue - the experience of feeling \u2018sleepy\u2019, \u2018tired\u2019 or \u2018exhausted\u2019. Fatigue affects both your body and your ability to drive safely. Field of vision - what you..."
       }
-    ]
+    ],
+    "sourcePage": 4
   },
   {
     "id": "cg030",
@@ -405,7 +423,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 4
   },
   {
     "id": "cg031",
@@ -429,7 +448,9 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 5,
+    "imageId": "images/questions/cg031.png"
   },
   {
     "id": "cg032",
@@ -453,7 +474,8 @@
         "sectionTitle": "Test your knowledge",
         "excerpt": "Road Users\u2019 Handbook 162 Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. Is it an offence to obstruct clear vision of your number plates? a) Yes, at any time b) Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate c) No, you are allowed to cover your number plates if you..."
       }
-    ]
+    ],
+    "sourcePage": 5
   },
   {
     "id": "cg034",
@@ -477,7 +499,8 @@
         "sectionTitle": "What is EcoDriving",
         "excerpt": "Road Users\u2019 Handbook 71 What is EcoDriving EcoDriving is a driving style aimed at helping the environment by reducing fuel consumption and greenhouse gas emissions. EcoDriving can also save you money. Research has also shown that EcoDriving can help to reduce crash involvement by up to 40 per cent. EcoDriving Tips \u2022 Only fill your petrol tank to the first cl..."
       }
-    ]
+    ],
+    "sourcePage": 5
   },
   {
     "id": "cg035",
@@ -501,7 +524,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 5
   },
   {
     "id": "cg036",
@@ -525,7 +549,8 @@
         "sectionTitle": "Road positioning",
         "excerpt": "Road Users\u2019 Handbook 62 Road positioning Position your vehicle to maximise the distance from hazards (referred to as buffering). For example, moving to the left at the crest of a hill to create space from oncoming vehicles, or moving away from parked cars to avoid pedestrians and doors opening. Check your mirrors before making any change to your speed or pos..."
       }
-    ]
+    ],
+    "sourcePage": 5
   },
   {
     "id": "cg037",
@@ -549,7 +574,9 @@
         "sectionTitle": "Plan ahead",
         "excerpt": "Road Users\u2019 Handbook 91 Plan ahead You need to think ahead in order to stay in the same lane as you drive from one road to another. The diagram shows a situation that calls for planning ahead. Car A needs to turn left into the road marked X. It is best to turn right from the left lane to make it easy to turn left into road X. Follow the instruction of any ro..."
       }
-    ]
+    ],
+    "sourcePage": 6,
+    "imageId": "images/questions/cg037.png"
   },
   {
     "id": "cg038",
@@ -573,7 +600,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 6
   },
   {
     "id": "cg039",
@@ -597,7 +625,8 @@
         "sectionTitle": "Handbook",
         "excerpt": "Road Users\u2019 Handbook 2 Whether you are a new or an experienced driver, the Road Users\u2019 Handbook provides practical information on NSW road rules as well as road safety, low risk driving, vehicle registration and penalties for driving offences. The road rules are a framework for the safe and efficient movement of traffic on NSW roads. This updated handbook is..."
       }
-    ]
+    ],
+    "sourcePage": 6
   },
   {
     "id": "cg040",
@@ -621,7 +650,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 6
   },
   {
     "id": "cg042",
@@ -645,7 +675,8 @@
         "sectionTitle": "Organ donor - person who wishes",
         "excerpt": "Road Users\u2019 Handbook 176 Organ donor - person who wishes to donate their organs (liver, kidney, lungs etc) for transplant after they have died. Overcrowding - having more occupants in a vehicle than available seats. Overloaded (vehicle) - a vehicle carrying a load that is too big or heavy for the vehicle to carry it safely or legally. Overseas - outside Aust..."
       }
-    ]
+    ],
+    "sourcePage": 6
   },
   {
     "id": "cg043",
@@ -669,7 +700,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 7
   },
   {
     "id": "cg044",
@@ -693,7 +725,8 @@
         "sectionTitle": "NEEDING A TOW TRUCK",
         "excerpt": "Road Users\u2019 Handbook 153 NEEDING A TOW TRUCK If you need the assistance of a tow truck after being involved in an accident, you have the right to: \u2022 Decide where your vehicle will be towed \u2022 Decide who will tow your vehicle \u2022 Contact anyone prior to signing the authorisation form (for assistance on the right place to tow your vehicle) \u2022 Receive a copy of the..."
       }
-    ]
+    ],
+    "sourcePage": 7
   },
   {
     "id": "cg045",
@@ -717,7 +750,8 @@
         "sectionTitle": "What to do after a crash",
         "excerpt": "Road Users\u2019 Handbook 151 What to do after a crash If you are involved in a crash you must stop immediately and give as much help as possible to anyone else involved in the crash. If anyone is injured or killed, you should call the Police and Ambulance - dial 000. You should protect the area to make sure that another crash does not occur. You must remove anyt..."
       }
-    ]
+    ],
+    "sourcePage": 7
   },
   {
     "id": "cg046",
@@ -741,7 +775,8 @@
         "sectionTitle": "What to do after a crash",
         "excerpt": "Road Users\u2019 Handbook 152 Regardless of damage, if you are asked to, you must provide the owner or driver of any other vehicle involved in the crash with the following information: \u2022 Your name, address and licence details \u2022 Your vehicle registration number \u2022 If you are not the owner of the vehicle, the name and address of the owner. You can ask the other driv..."
       }
-    ]
+    ],
+    "sourcePage": 8
   },
   {
     "id": "cg047",
@@ -765,7 +800,8 @@
         "sectionTitle": "Crossings without signals",
         "excerpt": "Road Users\u2019 Handbook 147 Crossings without signals Take extra care where there are no gates, booms or flashing lights, particularly in the country. Slow down, look and listen for trains in both directions. There are usually warning signs placed ahead of the crossings. Check for other trains If you have stopped for a train, always check that another one is no..."
       }
-    ]
+    ],
+    "sourcePage": 8
   },
   {
     "id": "cg048",
@@ -789,7 +825,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 41 \u2022 Makes it harder to do more than one thing at a time; while you concentrate on steering you could miss seeing traffic lights or cars entering from side streets. \u2022 Affects your sense of balance and coordination. \u2022 Makes you sleepy. See Section 5 General Road Rules for the legal requirements on alcohol, medicine and drug consumption. E..."
       }
-    ]
+    ],
+    "sourcePage": 8
   },
   {
     "id": "cg049",
@@ -813,7 +850,8 @@
         "sectionTitle": "Explosive - something that is",
         "excerpt": "Road Users\u2019 Handbook 174 and the licence is therefore no longer valid. Explosive - something that is dangerous as it may blow up. Expressway - see motorway. Fatal - something that results in death. Fatigue - the experience of feeling \u2018sleepy\u2019, \u2018tired\u2019 or \u2018exhausted\u2019. Fatigue affects both your body and your ability to drive safely. Field of vision - what you..."
       }
-    ]
+    ],
+    "sourcePage": 8
   },
   {
     "id": "cg052",
@@ -837,7 +875,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 8
   },
   {
     "id": "cg053",
@@ -861,7 +900,8 @@
         "sectionTitle": "This means that no other road",
         "excerpt": "Road Users\u2019 Handbook 177 Safe gap - a gap in traffic that enables you to turn, overtake or cross an intersection without being involved in a collision or endangering other road users. This means that no other road users should need to take evasive action to avoid your vehicle. Scanning - constantly moving your eyes when driving so that you can detect hazards..."
       }
-    ]
+    ],
+    "sourcePage": 9
   },
   {
     "id": "cg055",
@@ -885,7 +925,8 @@
         "sectionTitle": "Audible lines",
         "excerpt": "Road Users\u2019 Handbook 107 Audible lines Audible edge lines are lines composed of a series of raised pieces of material that create a noise or vibration if driven on by a motor vehicle. These lines are used to warn drivers who veer over the line. Kerb lines Yellow lines painted near the edge of the road show that there are stopping restrictions and tell you wh..."
       }
-    ]
+    ],
+    "sourcePage": 9
   },
   {
     "id": "cg056",
@@ -909,7 +950,8 @@
         "sectionTitle": "Headlights",
         "excerpt": "Road Users\u2019 Handbook 181 sharing the road with ....... 58 towing behind ............ 150 turning ............. 130, 131 warning signs ......... 113-115 Headlights (see also lights) . 143-145, 157 Horse (sharing the road) ..... 58 Hourly parking ............ 138 I Implement ................ 27 Interpreters ............... 19 Intersections B signals ............."
       }
-    ]
+    ],
+    "sourcePage": 9
   },
   {
     "id": "cg061",
@@ -933,7 +975,8 @@
         "sectionTitle": "What NSW licence you are eligible for",
         "excerpt": "Road Users\u2019 Handbook 32 What NSW licence you are eligible for The length of time you have held an overseas car or rider licence will determine the type of licence that you are eligible to hold. \u2022 If you have held your overseas car or rider licence for less than one year, you will only be eligible for a P1 licence \u2022 If you have held a car or rider licence for..."
       }
-    ]
+    ],
+    "sourcePage": 9
   },
   {
     "id": "cg062",
@@ -957,7 +1000,8 @@
         "sectionTitle": "Driving and dementia",
         "excerpt": "Road Users\u2019 Handbook 33 Roads and Maritime may suspend or cancel your licence if information is available that proves you should not be driving. For example, a doctor may report that a patient does not meet the medical standards and is no longer fit to drive. Driving and dementia The gradual and permanent loss of mental functions caused by dementia will over..."
       }
-    ]
+    ],
+    "sourcePage": 9
   },
   {
     "id": "cg063",
@@ -981,7 +1025,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 10
   },
   {
     "id": "cg064",
@@ -1005,7 +1050,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 10
   },
   {
     "id": "cg067",
@@ -1029,7 +1075,8 @@
         "sectionTitle": "Test your knowledge",
         "excerpt": "Road Users\u2019 Handbook 162 Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. Is it an offence to obstruct clear vision of your number plates? a) Yes, at any time b) Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate c) No, you are allowed to cover your number plates if you..."
       }
-    ]
+    ],
+    "sourcePage": 10
   },
   {
     "id": "cg068",
@@ -1053,7 +1100,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 10
   },
   {
     "id": "cg070",
@@ -1077,7 +1125,9 @@
         "sectionTitle": "Drivers holding an overseas licence",
         "excerpt": "Road Users\u2019 Handbook 31 You must also: \u2022 Prove your NSW address \u2022 Prove your identity \u2022 Pass an eyesight test \u2022 Pass a knowledge test for each class of licence required \u2022 Pass a driving test for each class of licence required \u2022 Provide documents proving the first issue date of your licence, if it is not displayed on the licence. If you fail the driving test,..."
       }
-    ]
+    ],
+    "sourcePage": 11,
+    "imageId": "images/questions/cg070.png"
   },
   {
     "id": "cg071",
@@ -1101,7 +1151,8 @@
         "sectionTitle": "Plan ahead",
         "excerpt": "Road Users\u2019 Handbook 91 Plan ahead You need to think ahead in order to stay in the same lane as you drive from one road to another. The diagram shows a situation that calls for planning ahead. Car A needs to turn left into the road marked X. It is best to turn right from the left lane to make it easy to turn left into road X. Follow the instruction of any ro..."
       }
-    ]
+    ],
+    "sourcePage": 11
   },
   {
     "id": "cg075",
@@ -1125,7 +1176,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 11
   },
   {
     "id": "cg076",
@@ -1149,7 +1201,8 @@
         "sectionTitle": "How the DKT works",
         "excerpt": "Road Users\u2019 Handbook 17 How the DKT works The DKT is undertaken on a computer and consists of 45 questions, randomly selected from a question bank of approximately 600. Each question is displayed in turn on the screen. To answer the question, you must touch one of three answer options on the screen. No-one knows which questions will be chosen, but, there wil..."
       }
-    ]
+    ],
+    "sourcePage": 11
   },
   {
     "id": "cg078",
@@ -1173,7 +1226,8 @@
         "sectionTitle": "What NSW licence you are eligible for",
         "excerpt": "Road Users\u2019 Handbook 32 What NSW licence you are eligible for The length of time you have held an overseas car or rider licence will determine the type of licence that you are eligible to hold. \u2022 If you have held your overseas car or rider licence for less than one year, you will only be eligible for a P1 licence \u2022 If you have held a car or rider licence for..."
       }
-    ]
+    ],
+    "sourcePage": 12
   },
   {
     "id": "cg080",
@@ -1197,7 +1251,9 @@
         "sectionTitle": "Booking a DKT",
         "excerpt": "Road Users\u2019 Handbook 18 Booking a DKT You will need to book and pay a fee to take a DKT. When you are ready, make a booking: \u2022 By selecting my Tests at www.myRTA.com \u2022 By calling Roads and Maritime on 13 77 88 \u2022 In person at a registry or service centre. DKT bookings made by phone or online can be paid for by credit card only. Bookings made at a registry or..."
       }
-    ]
+    ],
+    "sourcePage": 12,
+    "imageId": "images/questions/cg080.png"
   },
   {
     "id": "cg082",
@@ -1221,7 +1277,8 @@
         "sectionTitle": "T-intersection without traffic",
         "excerpt": "Road Users\u2019 Handbook 136 \u2022 Within 10 metres before and three metres after a marked foot cross - ing with traffic signals \u2022 Within one metre of a fire hydrant, fire hydrant indicator or fire plug indicator \u2022 On a railway level crossing \u2022 Within 20 metres before and after a railway level crossing (see below). When you are parking on a hill or a curve outside a..."
       }
-    ]
+    ],
+    "sourcePage": 12
   },
   {
     "id": "cg083",
@@ -1245,7 +1302,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 12
   },
   {
     "id": "cg084",
@@ -1269,7 +1327,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 13
   },
   {
     "id": "cg086",
@@ -1293,7 +1352,8 @@
         "sectionTitle": "Light rail vehicles",
         "excerpt": "Road Users\u2019 Handbook 132 Light rail vehicles When a light rail vehicle is coming towards you, keep to the left unless there is a barrier between you and the light rail vehicle. Only overtake on the left to pass a light rail vehicle travelling in the centre or on the right hand side of the road. You should overtake on the right when the light rail vehicle is..."
       }
-    ]
+    ],
+    "sourcePage": 13
   },
   {
     "id": "cg087",
@@ -1317,7 +1377,9 @@
         "sectionTitle": "Handbook",
         "excerpt": "Road Users\u2019 Handbook 2 Whether you are a new or an experienced driver, the Road Users\u2019 Handbook provides practical information on NSW road rules as well as road safety, low risk driving, vehicle registration and penalties for driving offences. The road rules are a framework for the safe and efficient movement of traffic on NSW roads. This updated handbook is..."
       }
-    ]
+    ],
+    "sourcePage": 13,
+    "imageId": "images/questions/cg087.png"
   },
   {
     "id": "cg088",
@@ -1341,7 +1403,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 14
   },
   {
     "id": "cg089",
@@ -1365,7 +1428,8 @@
         "sectionTitle": "This means that no other road",
         "excerpt": "Road Users\u2019 Handbook 177 Safe gap - a gap in traffic that enables you to turn, overtake or cross an intersection without being involved in a collision or endangering other road users. This means that no other road users should need to take evasive action to avoid your vehicle. Scanning - constantly moving your eyes when driving so that you can detect hazards..."
       }
-    ]
+    ],
+    "sourcePage": 14
   },
   {
     "id": "cg090",
@@ -1389,7 +1453,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 14
   },
   {
     "id": "cg091",
@@ -1413,7 +1478,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 15
   },
   {
     "id": "cg092",
@@ -1437,7 +1503,8 @@
         "sectionTitle": "What to do after a crash",
         "excerpt": "Road Users\u2019 Handbook 151 What to do after a crash If you are involved in a crash you must stop immediately and give as much help as possible to anyone else involved in the crash. If anyone is injured or killed, you should call the Police and Ambulance - dial 000. You should protect the area to make sure that another crash does not occur. You must remove anyt..."
       }
-    ]
+    ],
+    "sourcePage": 15
   },
   {
     "id": "cg093",
@@ -1461,7 +1528,9 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 15,
+    "imageId": "images/questions/cg093.png"
   },
   {
     "id": "cg094",
@@ -1485,7 +1554,8 @@
         "sectionTitle": "Fog lights",
         "excerpt": "Road Users\u2019 Handbook 145 Fog lights Front and rear fog lights must only be used in fog or rain, or when conditions such as smoke and dust limit your vision. It is a legal requirement that once conditions improve and you can see more clearly, the front and rear fog lights are switched off. If your vehicle is not fitted with fog lights you may use your headlig..."
       }
-    ]
+    ],
+    "sourcePage": 15
   },
   {
     "id": "cg095",
@@ -1509,7 +1579,8 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 16
   },
   {
     "id": "cg099",
@@ -1533,7 +1604,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 16
   },
   {
     "id": "cg100",
@@ -1557,7 +1629,8 @@
         "sectionTitle": "High beam",
         "excerpt": "Road Users\u2019 Handbook 144 High beam To see further ahead use your headlights on high beam on any road even if there are street lights. You must dip your headlights to low beam: \u2022 When a vehicle coming toward you is within 200 metres (see below). \u2022 When driving 200 metres or less behind another vehicle (see below). When you overtake another vehicle, you may br..."
       }
-    ]
+    ],
+    "sourcePage": 16
   },
   {
     "id": "cg102",
@@ -1581,7 +1654,8 @@
         "sectionTitle": "Licence types",
         "excerpt": "Road Users\u2019 Handbook 20 Licence types Learner Licence To get a Class C (car) learner licence you must pass the DKT, sit an eyesight test and pay a fee. You must be aged 16 years or older. After passing the DKT and paying the fee, you will be issued with a learner licence Class C (car) and be given the option to take home a learner driver log book or to downl..."
       }
-    ]
+    ],
+    "sourcePage": 16
   },
   {
     "id": "cg103",
@@ -1605,7 +1679,8 @@
         "sectionTitle": "Handbook",
         "excerpt": "Road Users\u2019 Handbook 2 Whether you are a new or an experienced driver, the Road Users\u2019 Handbook provides practical information on NSW road rules as well as road safety, low risk driving, vehicle registration and penalties for driving offences. The road rules are a framework for the safe and efficient movement of traffic on NSW roads. This updated handbook is..."
       }
-    ]
+    ],
+    "sourcePage": 17
   },
   {
     "id": "cg105",
@@ -1629,7 +1704,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 17
   },
   {
     "id": "cg106",
@@ -1653,7 +1729,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 18
   },
   {
     "id": "cg110",
@@ -1677,7 +1754,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 18
   },
   {
     "id": "cg112",
@@ -1701,7 +1779,8 @@
         "sectionTitle": "Parking restrictions",
         "excerpt": "Road Users\u2019 Handbook 138 Parking restrictions If you park in places such as clearways or no parking zones, you may restrict traffic flow and create danger for other road users and residents. You must obey all parking signs. Accessible parking Only vehicles transporting a current Mobility Parking Scheme (MPS) permit holder can park in areas displaying this si..."
       }
-    ]
+    ],
+    "sourcePage": 18
   },
   {
     "id": "cg113",
@@ -1725,7 +1804,9 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 18,
+    "imageId": "images/questions/cg113.png"
   },
   {
     "id": "cg114",
@@ -1749,7 +1830,8 @@
         "sectionTitle": "LICENCE RESTRICTIONS FOR P1 LICENCES",
         "excerpt": "Road Users\u2019 Handbook 23 LICENCE RESTRICTIONS FOR P1 LICENCES Automatic You are restricted to driving an automatic transmission vehicles vehicle if tested in one. Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur fo..."
       }
-    ]
+    ],
+    "sourcePage": 19
   },
   {
     "id": "cg115",
@@ -1773,7 +1855,8 @@
         "sectionTitle": "Section 2 Licences",
         "excerpt": "Road Users\u2019 Handbook 170 These are the answers to the knowledge questions at the end of each section. For more sample questions visit www.rms.nsw.gov.au Section 2 Licences 1. Can a P1 or P2 driver legally instruct a learner driver? a) No 2. To progress to a P2 licence, a P1 driver must hold a P1 licence for a minimum period of - b) 12 months 3. Are you requi..."
       }
-    ]
+    ],
+    "sourcePage": 19
   },
   {
     "id": "cg116",
@@ -1797,7 +1880,8 @@
         "sectionTitle": "Reducing distractions means reducing crash risk",
         "excerpt": "Road Users\u2019 Handbook 149 Reducing distractions means reducing crash risk While you can\u2019t do much about distractions from outside your vehicle when you are driving, you can reduce sources of distraction inside your vehicle. This will help reduce your crash risk. Unfortunately, while modern cars have many new active and passive safety devices, they are also in..."
       }
-    ]
+    ],
+    "sourcePage": 19
   },
   {
     "id": "cg117",
@@ -1821,7 +1905,8 @@
         "sectionTitle": "Explosive - something that is",
         "excerpt": "Road Users\u2019 Handbook 174 and the licence is therefore no longer valid. Explosive - something that is dangerous as it may blow up. Expressway - see motorway. Fatal - something that results in death. Fatigue - the experience of feeling \u2018sleepy\u2019, \u2018tired\u2019 or \u2018exhausted\u2019. Fatigue affects both your body and your ability to drive safely. Field of vision - what you..."
       }
-    ]
+    ],
+    "sourcePage": 19
   },
   {
     "id": "cg118",
@@ -1845,7 +1930,8 @@
         "sectionTitle": "Restricted parking areas",
         "excerpt": "Road Users\u2019 Handbook 140 Restricted parking areas Restricted parking areas are used in large public areas that usually have a limited number of entry and exit points, such as Darling Harbour and Homebush Bay. You must not stop or park your vehicle, between the signs RESTRICTED PARKING AREA and END RESTRICTED PARKING AREA, except in a parking station or in a..."
       }
-    ]
+    ],
+    "sourcePage": 19
   },
   {
     "id": "cg119",
@@ -1869,7 +1955,9 @@
         "sectionTitle": "Plan ahead",
         "excerpt": "Road Users\u2019 Handbook 91 Plan ahead You need to think ahead in order to stay in the same lane as you drive from one road to another. The diagram shows a situation that calls for planning ahead. Car A needs to turn left into the road marked X. It is best to turn right from the left lane to make it easy to turn left into road X. Follow the instruction of any ro..."
       }
-    ]
+    ],
+    "sourcePage": 20,
+    "imageId": "images/questions/cg119.png"
   },
   {
     "id": "cg120",
@@ -1893,7 +1981,8 @@
         "sectionTitle": "Provisional P1 licences",
         "excerpt": "Road Users\u2019 Handbook 22 Provisional P1 licences A provisional stage 1 (P1) licence is issued once you have held your learner licence for 12 months (if under 25), have passed a Hazard Perception Test (HPT) and passed a driving test. You can also get a P1 licence, if you have held a current interstate or overseas licence of a similar type for less than one yea..."
       }
-    ]
+    ],
+    "sourcePage": 20
   },
   {
     "id": "cg121",
@@ -1917,7 +2006,8 @@
         "sectionTitle": "Blood tests",
         "excerpt": "Road Users\u2019 Handbook 43 Blood tests Any driver or supervising driver involved in a crash may be breath tested. Blood tests will also be taken if you are admitted to hospital with injuries from a crash. Refusal to have a blood analysis can result in significant penalties, including fines, loss of licence or imprisonment. Effects of drugs on driving Drugs othe..."
       }
-    ]
+    ],
+    "sourcePage": 20
   },
   {
     "id": "cg122",
@@ -1941,7 +2031,8 @@
         "sectionTitle": "Handbook",
         "excerpt": "Road Users\u2019 Handbook 2 Whether you are a new or an experienced driver, the Road Users\u2019 Handbook provides practical information on NSW road rules as well as road safety, low risk driving, vehicle registration and penalties for driving offences. The road rules are a framework for the safe and efficient movement of traffic on NSW roads. This updated handbook is..."
       }
-    ]
+    ],
+    "sourcePage": 20
   },
   {
     "id": "cg123",
@@ -1965,7 +2056,8 @@
         "sectionTitle": "Adjacent direction - coming from",
         "excerpt": "Road Users\u2019 Handbook 172 Adjacent direction - coming from Adjacent direction - coming from the left or right, across your path. Amber - the yellow colour used for traffic lights. Approaching - getting closer to, from any direction. Arterial road - a main road that carries a lot of traffic between suburbs or within cities or towns. Axle - bar on which wheels..."
       }
-    ]
+    ],
+    "sourcePage": 20
   },
   {
     "id": "ad004",
@@ -1989,7 +2081,8 @@
         "sectionTitle": "What you should know about road safety",
         "excerpt": "Road Users\u2019 Handbook 59 What you should know about road safety This section has explained the importance of safety on our roads. After reading this section, you should know: Speeding \u2022 What speeding is \u2022 The impact when driving five km/h over the speed limit. Alcohol, drugs, medicine and driving \u2022 How alcohol affects your ability to drive \u2022 Zero BAC (Blood A..."
       }
-    ]
+    ],
+    "sourcePage": 21
   },
   {
     "id": "ad009",
@@ -2013,7 +2106,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 21
   },
   {
     "id": "ad012",
@@ -2037,7 +2131,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 21
   },
   {
     "id": "ad013",
@@ -2061,7 +2156,8 @@
         "sectionTitle": "What you should know about road safety",
         "excerpt": "Road Users\u2019 Handbook 59 What you should know about road safety This section has explained the importance of safety on our roads. After reading this section, you should know: Speeding \u2022 What speeding is \u2022 The impact when driving five km/h over the speed limit. Alcohol, drugs, medicine and driving \u2022 How alcohol affects your ability to drive \u2022 Zero BAC (Blood A..."
       }
-    ]
+    ],
+    "sourcePage": 21
   },
   {
     "id": "ad014",
@@ -2085,7 +2181,8 @@
         "sectionTitle": "Alcohol limits",
         "excerpt": "Road Users\u2019 Handbook 79 Alcohol limits The laws in NSW limit the amount of alcohol you can consume if you are driving a vehicle. Legal limits Your blood alcohol concentration (BAC) must be under the limit as shown in the table. Heavy penalties apply for driving with a BAC on or over the limit. For more information see Section 3, Road safety. Some foods and m..."
       }
-    ]
+    ],
+    "sourcePage": 21
   },
   {
     "id": "ad015",
@@ -2109,7 +2206,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 42 \u2022 Alcoholic drinks are served in many different sizes, making it hard to know how much you have actually consumed. It is impossible to estimate your BAC because: \u2022 There are variations in the size of the glass or bottle used to serve alcohol, for example, wine glasses vary from 100 to 280 mls and beer may be served in pints, schooners..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad016",
@@ -2133,7 +2231,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 42 \u2022 Alcoholic drinks are served in many different sizes, making it hard to know how much you have actually consumed. It is impossible to estimate your BAC because: \u2022 There are variations in the size of the glass or bottle used to serve alcohol, for example, wine glasses vary from 100 to 280 mls and beer may be served in pints, schooners..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad025",
@@ -2157,7 +2256,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 41 \u2022 Makes it harder to do more than one thing at a time; while you concentrate on steering you could miss seeing traffic lights or cars entering from side streets. \u2022 Affects your sense of balance and coordination. \u2022 Makes you sleepy. See Section 5 General Road Rules for the legal requirements on alcohol, medicine and drug consumption. E..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad026",
@@ -2181,7 +2281,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad031",
@@ -2205,7 +2306,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 42 \u2022 Alcoholic drinks are served in many different sizes, making it hard to know how much you have actually consumed. It is impossible to estimate your BAC because: \u2022 There are variations in the size of the glass or bottle used to serve alcohol, for example, wine glasses vary from 100 to 280 mls and beer may be served in pints, schooners..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad033",
@@ -2229,7 +2331,8 @@
         "sectionTitle": "Safety tips for pedestrians",
         "excerpt": "Road Users\u2019 Handbook 52 Safety tips for pedestrians Cross the road at pedestrian facilities such as crossings and traffic lights. Before crossing the road think about whether an approaching driver can see you. \u2022 Before crossing the road - stop, look, listen and think \u2022 Never assume that an approaching vehicle will stop for you \u2022 Avoid crossing between parked..."
       }
-    ]
+    ],
+    "sourcePage": 22
   },
   {
     "id": "ad034",
@@ -2253,7 +2356,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "ad038",
@@ -2277,7 +2381,8 @@
         "sectionTitle": "Alcohol limits",
         "excerpt": "Road Users\u2019 Handbook 79 Alcohol limits The laws in NSW limit the amount of alcohol you can consume if you are driving a vehicle. Legal limits Your blood alcohol concentration (BAC) must be under the limit as shown in the table. Heavy penalties apply for driving with a BAC on or over the limit. For more information see Section 3, Road safety. Some foods and m..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "ad041",
@@ -2301,7 +2406,8 @@
         "sectionTitle": "LICENCE RESTRICTIONS FOR P1 LICENCES",
         "excerpt": "Road Users\u2019 Handbook 23 LICENCE RESTRICTIONS FOR P1 LICENCES Automatic You are restricted to driving an automatic transmission vehicles vehicle if tested in one. Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur fo..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "dr001",
@@ -2325,7 +2431,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "dr002",
@@ -2349,7 +2456,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "dr004",
@@ -2373,7 +2481,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 42 \u2022 Alcoholic drinks are served in many different sizes, making it hard to know how much you have actually consumed. It is impossible to estimate your BAC because: \u2022 There are variations in the size of the glass or bottle used to serve alcohol, for example, wine glasses vary from 100 to 280 mls and beer may be served in pints, schooners..."
       }
-    ]
+    ],
+    "sourcePage": 23
   },
   {
     "id": "dr009",
@@ -2397,7 +2506,8 @@
         "sectionTitle": "Fog lights",
         "excerpt": "Road Users\u2019 Handbook 145 Fog lights Front and rear fog lights must only be used in fog or rain, or when conditions such as smoke and dust limit your vision. It is a legal requirement that once conditions improve and you can see more clearly, the front and rear fog lights are switched off. If your vehicle is not fitted with fog lights you may use your headlig..."
       }
-    ]
+    ],
+    "sourcePage": 24
   },
   {
     "id": "dr010",
@@ -2421,7 +2531,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 24
   },
   {
     "id": "dr011",
@@ -2445,7 +2556,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 24
   },
   {
     "id": "bi001",
@@ -2469,7 +2581,8 @@
         "sectionTitle": "What you should know about road safety",
         "excerpt": "Road Users\u2019 Handbook 59 What you should know about road safety This section has explained the importance of safety on our roads. After reading this section, you should know: Speeding \u2022 What speeding is \u2022 The impact when driving five km/h over the speed limit. Alcohol, drugs, medicine and driving \u2022 How alcohol affects your ability to drive \u2022 Zero BAC (Blood A..."
       }
-    ]
+    ],
+    "sourcePage": 25
   },
   {
     "id": "bi002",
@@ -2493,7 +2606,8 @@
         "sectionTitle": "Sharing the road with motorcyclists",
         "excerpt": "Road Users\u2019 Handbook 54 Safety tips for drivers sharing the road with motor cyclists \u2022 Always be on the look out for motorcycles as they are smaller than cars and harder to see \u2022 Do not drive alongside and in the same lane as a motorcycle. Motorcycles need a full width lane to ride safely \u2022 Allow motorcycles as much space as a car when overtaking them. \u2022 Reg..."
       }
-    ]
+    ],
+    "sourcePage": 25
   },
   {
     "id": "bi003",
@@ -2517,7 +2631,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 25
   },
   {
     "id": "fd001",
@@ -2541,7 +2656,8 @@
         "sectionTitle": "Summary",
         "excerpt": "Road Users\u2019 Handbook 73 Summary Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. Under good conditions, when driving behind any vehicle, at any speed, you should - a) Drive as close to the vehicle in front as possible b) Stay at least three seconds behind the vehicle in front of you c) Stay one seco..."
       }
-    ]
+    ],
+    "sourcePage": 26
   },
   {
     "id": "fd002",
@@ -2565,7 +2681,8 @@
         "sectionTitle": "Sample test questions",
         "excerpt": "Road Users\u2019 Handbook 61 Sample test questions Low risk driving Driving is never risk free, but you should aim to drive \u2018low risk\u2019. A low risk driver has good observation, speed management and road positioning skills. OBSERVATION The key to good observation is scanning. Scanning is keeping your eyes moving, checking in one area for a couple of seconds and the..."
       }
-    ]
+    ],
+    "sourcePage": 26
   },
   {
     "id": "fd003",
@@ -2589,7 +2706,8 @@
         "sectionTitle": "High beam",
         "excerpt": "Road Users\u2019 Handbook 144 High beam To see further ahead use your headlights on high beam on any road even if there are street lights. You must dip your headlights to low beam: \u2022 When a vehicle coming toward you is within 200 metres (see below). \u2022 When driving 200 metres or less behind another vehicle (see below). When you overtake another vehicle, you may br..."
       }
-    ]
+    ],
+    "sourcePage": 26
   },
   {
     "id": "fd004",
@@ -2613,7 +2731,8 @@
         "sectionTitle": "Section 2 Licences",
         "excerpt": "Road Users\u2019 Handbook 170 These are the answers to the knowledge questions at the end of each section. For more sample questions visit www.rms.nsw.gov.au Section 2 Licences 1. Can a P1 or P2 driver legally instruct a learner driver? a) No 2. To progress to a P2 licence, a P1 driver must hold a P1 licence for a minimum period of - b) 12 months 3. Are you requi..."
       }
-    ]
+    ],
+    "sourcePage": 26
   },
   {
     "id": "fd005",
@@ -2637,7 +2756,8 @@
         "sectionTitle": "Sample test questions",
         "excerpt": "Road Users\u2019 Handbook 61 Sample test questions Low risk driving Driving is never risk free, but you should aim to drive \u2018low risk\u2019. A low risk driver has good observation, speed management and road positioning skills. OBSERVATION The key to good observation is scanning. Scanning is keeping your eyes moving, checking in one area for a couple of seconds and the..."
       }
-    ]
+    ],
+    "sourcePage": 26
   },
   {
     "id": "fd006",
@@ -2661,7 +2781,8 @@
         "sectionTitle": "Making our roads safer for everyone",
         "excerpt": "Road Users\u2019 Handbook 37 Making our roads safer for everyone Every year over 400 people are killed on NSW roads. A further 25,000 are injured. The major behavioural factors for deaths on the road are speeding, drink driving, fatigue and not wearing seatbelts. The graph below shows the major behavioural factors identified for young drivers/riders (aged 17-25)..."
       }
-    ]
+    ],
+    "sourcePage": 27
   },
   {
     "id": "fd007",
@@ -2685,7 +2806,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 27
   },
   {
     "id": "fd010",
@@ -2709,7 +2831,8 @@
         "sectionTitle": "Making our roads safer for everyone",
         "excerpt": "Road Users\u2019 Handbook 37 Making our roads safer for everyone Every year over 400 people are killed on NSW roads. A further 25,000 are injured. The major behavioural factors for deaths on the road are speeding, drink driving, fatigue and not wearing seatbelts. The graph below shows the major behavioural factors identified for young drivers/riders (aged 17-25)..."
       }
-    ]
+    ],
+    "sourcePage": 27
   },
   {
     "id": "fd011",
@@ -2733,7 +2856,8 @@
         "sectionTitle": "Road positioning",
         "excerpt": "Road Users\u2019 Handbook 62 Road positioning Position your vehicle to maximise the distance from hazards (referred to as buffering). For example, moving to the left at the crest of a hill to create space from oncoming vehicles, or moving away from parked cars to avoid pedestrians and doors opening. Check your mirrors before making any change to your speed or pos..."
       }
-    ]
+    ],
+    "sourcePage": 27
   },
   {
     "id": "fd012",
@@ -2757,7 +2881,8 @@
         "sectionTitle": "Explosive - something that is",
         "excerpt": "Road Users\u2019 Handbook 174 and the licence is therefore no longer valid. Explosive - something that is dangerous as it may blow up. Expressway - see motorway. Fatal - something that results in death. Fatigue - the experience of feeling \u2018sleepy\u2019, \u2018tired\u2019 or \u2018exhausted\u2019. Fatigue affects both your body and your ability to drive safely. Field of vision - what you..."
       }
-    ]
+    ],
+    "sourcePage": 27
   },
   {
     "id": "fd013",
@@ -2781,7 +2906,8 @@
         "sectionTitle": "Signs of driver fatigue",
         "excerpt": "Road Users\u2019 Handbook 45 Fatigue fact 5 The risk of driver fatigue increases with the amount of time you have spent driving. To reduce fatigue you should aim to stop for 15 minutes every two hours. But remember, the only cure for fatigue is a good night\u2019s sleep. Signs of driver fatigue Driver fatigue severely impairs your concentration and judgement; it slows..."
       }
-    ]
+    ],
+    "sourcePage": 28
   },
   {
     "id": "fd014",
@@ -2805,7 +2931,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 28
   },
   {
     "id": "fd026",
@@ -2829,7 +2956,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 28
   },
   {
     "id": "fd028",
@@ -2853,7 +2981,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 28
   },
   {
     "id": "fd030",
@@ -2877,7 +3006,8 @@
         "sectionTitle": "Lanes",
         "excerpt": "Road Users\u2019 Handbook 121 Lanes You should keep in the middle of the lane in which you are driving. If there are no lanes marked on the road, drive near the left side of the road. Before changing lane, signal in plenty of time and check for other vehicles by looking in your mirrors and your blind spot (look over your shoulder). You must give way to vehicles i..."
       }
-    ]
+    ],
+    "sourcePage": 28
   },
   {
     "id": "fd031",
@@ -2901,7 +3031,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 41 \u2022 Makes it harder to do more than one thing at a time; while you concentrate on steering you could miss seeing traffic lights or cars entering from side streets. \u2022 Affects your sense of balance and coordination. \u2022 Makes you sleepy. See Section 5 General Road Rules for the legal requirements on alcohol, medicine and drug consumption. E..."
       }
-    ]
+    ],
+    "sourcePage": 29
   },
   {
     "id": "fd032",
@@ -2925,7 +3056,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 29
   },
   {
     "id": "fd033",
@@ -2949,7 +3081,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 29
   },
   {
     "id": "fd034",
@@ -2973,7 +3106,8 @@
         "sectionTitle": "Signs of driver fatigue",
         "excerpt": "Road Users\u2019 Handbook 45 Fatigue fact 5 The risk of driver fatigue increases with the amount of time you have spent driving. To reduce fatigue you should aim to stop for 15 minutes every two hours. But remember, the only cure for fatigue is a good night\u2019s sleep. Signs of driver fatigue Driver fatigue severely impairs your concentration and judgement; it slows..."
       }
-    ]
+    ],
+    "sourcePage": 29
   },
   {
     "id": "fd035",
@@ -2997,7 +3131,8 @@
         "sectionTitle": "Making our roads safer for everyone",
         "excerpt": "Road Users\u2019 Handbook 37 Making our roads safer for everyone Every year over 400 people are killed on NSW roads. A further 25,000 are injured. The major behavioural factors for deaths on the road are speeding, drink driving, fatigue and not wearing seatbelts. The graph below shows the major behavioural factors identified for young drivers/riders (aged 17-25)..."
       }
-    ]
+    ],
+    "sourcePage": 29
   },
   {
     "id": "fd036",
@@ -3021,7 +3156,8 @@
         "sectionTitle": "Signs of driver fatigue",
         "excerpt": "Road Users\u2019 Handbook 45 Fatigue fact 5 The risk of driver fatigue increases with the amount of time you have spent driving. To reduce fatigue you should aim to stop for 15 minutes every two hours. But remember, the only cure for fatigue is a good night\u2019s sleep. Signs of driver fatigue Driver fatigue severely impairs your concentration and judgement; it slows..."
       }
-    ]
+    ],
+    "sourcePage": 30
   },
   {
     "id": "fd037",
@@ -3045,7 +3181,8 @@
         "sectionTitle": "Road positioning",
         "excerpt": "Road Users\u2019 Handbook 62 Road positioning Position your vehicle to maximise the distance from hazards (referred to as buffering). For example, moving to the left at the crest of a hill to create space from oncoming vehicles, or moving away from parked cars to avoid pedestrians and doors opening. Check your mirrors before making any change to your speed or pos..."
       }
-    ]
+    ],
+    "sourcePage": 30
   },
   {
     "id": "fd038",
@@ -3069,7 +3206,8 @@
         "sectionTitle": "Summary",
         "excerpt": "Road Users\u2019 Handbook 73 Summary Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. Under good conditions, when driving behind any vehicle, at any speed, you should - a) Drive as close to the vehicle in front as possible b) Stay at least three seconds behind the vehicle in front of you c) Stay one seco..."
       }
-    ]
+    ],
+    "sourcePage": 30
   },
   {
     "id": "fd041",
@@ -3093,7 +3231,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 30
   },
   {
     "id": "in001",
@@ -3117,7 +3256,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 31
   },
   {
     "id": "in003",
@@ -3141,7 +3281,9 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 31,
+    "imageId": "images/questions/in003.png"
   },
   {
     "id": "in004",
@@ -3165,7 +3307,9 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 31,
+    "imageId": "images/questions/in004.png"
   },
   {
     "id": "in005",
@@ -3189,7 +3333,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 31
   },
   {
     "id": "in006",
@@ -3213,7 +3358,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 32
   },
   {
     "id": "in007",
@@ -3237,7 +3383,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 32
   },
   {
     "id": "in008",
@@ -3261,7 +3408,9 @@
         "sectionTitle": "Turning",
         "excerpt": "Road Users\u2019 Handbook 90 Turning Plan your turns early so that you are in the correct part of the road and have enough time to signal where you want to turn. Left turns You must make a left turn from the left side of the road. When turning: \u2022 Signal left. \u2022 Move close to the left side of the road \u2022 Keep to the left side of the road you are entering \u2022 Use a sl..."
       }
-    ]
+    ],
+    "sourcePage": 32,
+    "imageId": "images/questions/in008.png"
   },
   {
     "id": "in010",
@@ -3285,7 +3434,9 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 33,
+    "imageId": "images/questions/in010.png"
   },
   {
     "id": "in011",
@@ -3309,7 +3460,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 33
   },
   {
     "id": "in012",
@@ -3333,7 +3485,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 33,
+    "imageId": "images/questions/in012.png"
   },
   {
     "id": "in013",
@@ -3357,7 +3511,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 33,
+    "imageId": "images/questions/in013.png"
   },
   {
     "id": "in014",
@@ -3381,7 +3537,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 34
   },
   {
     "id": "in016",
@@ -3405,7 +3562,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 34,
+    "imageId": "images/questions/in016.png"
   },
   {
     "id": "in018",
@@ -3429,7 +3588,8 @@
         "sectionTitle": "Bicycle stopping areas",
         "excerpt": "Road Users\u2019 Handbook 57 Bicycle stopping areas Some intersections have painted bicycle storage areas where you should stop if the lights are red. You should only enter bicycle storage areas from a bicycle lane. Hook turns by bicycle riders When turning right you may make a hook turn. A hook turn is when you use the left hand lane to turn right. The turn is m..."
       }
-    ]
+    ],
+    "sourcePage": 34
   },
   {
     "id": "in019",
@@ -3453,7 +3613,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 34,
+    "imageId": "images/questions/in019.png"
   },
   {
     "id": "in020",
@@ -3477,7 +3639,9 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 35,
+    "imageId": "images/questions/in020.png"
   },
   {
     "id": "in023",
@@ -3501,7 +3665,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 35
   },
   {
     "id": "in026",
@@ -3525,7 +3690,8 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 35
   },
   {
     "id": "in027",
@@ -3549,7 +3715,9 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 36,
+    "imageId": "images/questions/in027.png"
   },
   {
     "id": "in028",
@@ -3573,7 +3741,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 36,
+    "imageId": "images/questions/in028.png"
   },
   {
     "id": "in029",
@@ -3597,7 +3767,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 36
   },
   {
     "id": "in030",
@@ -3621,7 +3792,9 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 37,
+    "imageId": "images/questions/in030.png"
   },
   {
     "id": "in034",
@@ -3645,7 +3818,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 37
   },
   {
     "id": "in035",
@@ -3669,7 +3843,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 37
   },
   {
     "id": "in037",
@@ -3693,7 +3868,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 38
   },
   {
     "id": "in038",
@@ -3717,7 +3893,9 @@
         "sectionTitle": "Bicycle riders",
         "excerpt": "Road Users\u2019 Handbook 101 Bicycle riders Where the traffic at an intersection is controlled by traffic lights, cyclists may have signals that show them when to cross. Cyclists must follow these red, yellow or green bicycle symbols and proceed with care. T signals T signals are special signals for light rail vehicles. These traffic lights display the letter T...."
       }
-    ]
+    ],
+    "sourcePage": 38,
+    "imageId": "images/questions/in038.png"
   },
   {
     "id": "in039",
@@ -3741,7 +3919,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 38
   },
   {
     "id": "in040",
@@ -3765,7 +3944,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 39
   },
   {
     "id": "in042",
@@ -3789,7 +3969,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 39
   },
   {
     "id": "in043",
@@ -3813,7 +3994,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 39
   },
   {
     "id": "in044",
@@ -3837,7 +4019,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 40
   },
   {
     "id": "in045",
@@ -3861,7 +4044,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 40
   },
   {
     "id": "in046",
@@ -3885,7 +4069,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 40
   },
   {
     "id": "in048",
@@ -3909,7 +4094,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 41
   },
   {
     "id": "in049",
@@ -3933,7 +4119,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 41
   },
   {
     "id": "in051",
@@ -3957,7 +4144,8 @@
         "sectionTitle": "Roundabouts and Bicycle Riders",
         "excerpt": "Road Users\u2019 Handbook 97 Roundabouts: Risks to watch for \u2022 Take extra care whenever you drive in a roundabout. \u2022 Keep an eye out for cars that are leaving the roundabout. \u2022 Be careful if changing lanes in a roundabout, particularly when leaving. \u2022 Look out for vehicles that are making a full turn. \u2022 Watch for bicycles, long vehicles and motorcycles. Police di..."
       }
-    ]
+    ],
+    "sourcePage": 41
   },
   {
     "id": "in053",
@@ -3981,7 +4169,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 41
   },
   {
     "id": "in056",
@@ -4005,7 +4194,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 42
   },
   {
     "id": "in057",
@@ -4029,7 +4219,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 42
   },
   {
     "id": "in058",
@@ -4053,7 +4244,8 @@
         "sectionTitle": "Pedestrian signals",
         "excerpt": "Road Users\u2019 Handbook 102 Pedestrian signals When making a turn at an intersection you must give way to pedestrians on the road into which you are turning. Where the traffic at the intersection is controlled by traffic lights, there may be signals for pedestrians that show them when to cross. Pedestrians must follow these signals. Pedestrians must not start t..."
       }
-    ]
+    ],
+    "sourcePage": 42
   },
   {
     "id": "in059",
@@ -4077,7 +4269,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 43
   },
   {
     "id": "in060",
@@ -4101,7 +4294,8 @@
         "sectionTitle": "Turning",
         "excerpt": "Road Users\u2019 Handbook 90 Turning Plan your turns early so that you are in the correct part of the road and have enough time to signal where you want to turn. Left turns You must make a left turn from the left side of the road. When turning: \u2022 Signal left. \u2022 Move close to the left side of the road \u2022 Keep to the left side of the road you are entering \u2022 Use a sl..."
       }
-    ]
+    ],
+    "sourcePage": 43
   },
   {
     "id": "in061",
@@ -4125,7 +4319,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 43
   },
   {
     "id": "in062",
@@ -4149,7 +4344,8 @@
         "sectionTitle": "Roundabouts",
         "excerpt": "Road Users\u2019 Handbook 95 Roundabouts Many intersections have a central roundabout. Roundabouts manage the traffic flow in roads with either a single lane or multiple lanes. Signs identifying Roundabouts These are the signs that are associated with roundabouts. Do not drive on the central island of a roundabout unless the size of your vehicle means that you ca..."
       }
-    ]
+    ],
+    "sourcePage": 44
   },
   {
     "id": "in063",
@@ -4173,7 +4369,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 44
   },
   {
     "id": "in064",
@@ -4197,7 +4394,8 @@
         "sectionTitle": "Roundabouts and Bicycle Riders",
         "excerpt": "Road Users\u2019 Handbook 97 Roundabouts: Risks to watch for \u2022 Take extra care whenever you drive in a roundabout. \u2022 Keep an eye out for cars that are leaving the roundabout. \u2022 Be careful if changing lanes in a roundabout, particularly when leaving. \u2022 Look out for vehicles that are making a full turn. \u2022 Watch for bicycles, long vehicles and motorcycles. Police di..."
       }
-    ]
+    ],
+    "sourcePage": 44
   },
   {
     "id": "in065",
@@ -4221,7 +4419,8 @@
         "sectionTitle": "Roundabouts",
         "excerpt": "Road Users\u2019 Handbook 95 Roundabouts Many intersections have a central roundabout. Roundabouts manage the traffic flow in roads with either a single lane or multiple lanes. Signs identifying Roundabouts These are the signs that are associated with roundabouts. Do not drive on the central island of a roundabout unless the size of your vehicle means that you ca..."
       }
-    ]
+    ],
+    "sourcePage": 44
   },
   {
     "id": "in066",
@@ -4245,7 +4444,8 @@
         "sectionTitle": "Turning",
         "excerpt": "Road Users\u2019 Handbook 90 Turning Plan your turns early so that you are in the correct part of the road and have enough time to signal where you want to turn. Left turns You must make a left turn from the left side of the road. When turning: \u2022 Signal left. \u2022 Move close to the left side of the road \u2022 Keep to the left side of the road you are entering \u2022 Use a sl..."
       }
-    ]
+    ],
+    "sourcePage": 45
   },
   {
     "id": "in067",
@@ -4269,7 +4469,9 @@
         "sectionTitle": "Bicycle stopping areas",
         "excerpt": "Road Users\u2019 Handbook 57 Bicycle stopping areas Some intersections have painted bicycle storage areas where you should stop if the lights are red. You should only enter bicycle storage areas from a bicycle lane. Hook turns by bicycle riders When turning right you may make a hook turn. A hook turn is when you use the left hand lane to turn right. The turn is m..."
       }
-    ]
+    ],
+    "sourcePage": 45,
+    "imageId": "images/questions/in067.png"
   },
   {
     "id": "in068",
@@ -4293,7 +4495,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 45
   },
   {
     "id": "in069",
@@ -4317,7 +4520,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 45
   },
   {
     "id": "ld001",
@@ -4341,7 +4545,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 46
   },
   {
     "id": "ld002",
@@ -4365,7 +4570,9 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 46,
+    "imageId": "images/questions/ld002.png"
   },
   {
     "id": "ld003",
@@ -4389,7 +4596,9 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 46,
+    "imageId": "images/questions/ld003.png"
   },
   {
     "id": "ld004",
@@ -4413,7 +4622,9 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 46,
+    "imageId": "images/questions/ld004.png"
   },
   {
     "id": "ld005",
@@ -4437,7 +4648,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 47
   },
   {
     "id": "ld007",
@@ -4461,7 +4673,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 47,
+    "imageId": "images/questions/ld007.png"
   },
   {
     "id": "ld009",
@@ -4485,7 +4699,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 47,
+    "imageId": "images/questions/ld009.png"
   },
   {
     "id": "ld010",
@@ -4509,7 +4725,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 48,
+    "imageId": "images/questions/ld010.png"
   },
   {
     "id": "ld011",
@@ -4533,7 +4751,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 48,
+    "imageId": "images/questions/ld011.png"
   },
   {
     "id": "ld013",
@@ -4557,7 +4777,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 48
   },
   {
     "id": "ld014",
@@ -4581,7 +4802,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 48
   },
   {
     "id": "ld015",
@@ -4605,7 +4827,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 49
   },
   {
     "id": "ld017",
@@ -4629,7 +4852,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 49
   },
   {
     "id": "ld018",
@@ -4653,7 +4877,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 49
   },
   {
     "id": "ld022",
@@ -4677,7 +4902,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 50
   },
   {
     "id": "ld025",
@@ -4701,7 +4927,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 50
   },
   {
     "id": "ld026",
@@ -4725,7 +4952,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 51
   },
   {
     "id": "ld027",
@@ -4749,7 +4977,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 51
   },
   {
     "id": "ld028",
@@ -4773,7 +5002,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 51
   },
   {
     "id": "ld029",
@@ -4797,7 +5027,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 52
   },
   {
     "id": "ld032",
@@ -4821,7 +5052,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 52
   },
   {
     "id": "ld033",
@@ -4845,7 +5077,9 @@
         "sectionTitle": "Headlights",
         "excerpt": "Road Users\u2019 Handbook 181 sharing the road with ....... 58 towing behind ............ 150 turning ............. 130, 131 warning signs ......... 113-115 Headlights (see also lights) . 143-145, 157 Horse (sharing the road) ..... 58 Hourly parking ............ 138 I Implement ................ 27 Interpreters ............... 19 Intersections B signals ............."
       }
-    ]
+    ],
+    "sourcePage": 52,
+    "imageId": "images/questions/ld033.png"
   },
   {
     "id": "ld038",
@@ -4869,7 +5103,8 @@
         "sectionTitle": "One-way streets",
         "excerpt": "Road Users\u2019 Handbook 93 One-way streets When turning right into a one-way street you must turn as close as possible to the right side of the road you are entering. When turning right from a one-way street you must turn from as close as possible to the right side of the road. Turning from a one-way street."
       }
-    ]
+    ],
+    "sourcePage": 52
   },
   {
     "id": "ld040",
@@ -4893,7 +5128,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 53
   },
   {
     "id": "ld041",
@@ -4917,7 +5153,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 53
   },
   {
     "id": "ld043",
@@ -4941,7 +5178,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 53
   },
   {
     "id": "ld044",
@@ -4965,7 +5203,8 @@
         "sectionTitle": "General road rules",
         "excerpt": "Road Users\u2019 Handbook 75 General road rules Areas without speed signs Some roads do not have speed signs, such as unsealed roads and roads in remote areas. On these roads an end speed limit or speed de-restriction sign indicates you are entering an area without speed signs. In these areas the default speed limits apply and you must drive to the conditions. En..."
       }
-    ]
+    ],
+    "sourcePage": 53
   },
   {
     "id": "nd002",
@@ -4989,7 +5228,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 54
   },
   {
     "id": "nd004",
@@ -5013,7 +5253,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 54
   },
   {
     "id": "nd005",
@@ -5037,7 +5278,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 54,
+    "imageId": "images/questions/nd005.png"
   },
   {
     "id": "nd007",
@@ -5061,7 +5304,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 54
   },
   {
     "id": "nd008",
@@ -5085,7 +5329,8 @@
         "sectionTitle": "Fog lights",
         "excerpt": "Road Users\u2019 Handbook 145 Fog lights Front and rear fog lights must only be used in fog or rain, or when conditions such as smoke and dust limit your vision. It is a legal requirement that once conditions improve and you can see more clearly, the front and rear fog lights are switched off. If your vehicle is not fitted with fog lights you may use your headlig..."
       }
-    ]
+    ],
+    "sourcePage": 55
   },
   {
     "id": "nd009",
@@ -5109,7 +5354,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 55
   },
   {
     "id": "nd010",
@@ -5133,7 +5379,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 55
   },
   {
     "id": "nd011",
@@ -5157,7 +5404,8 @@
         "sectionTitle": "Sharing the road with trucks and buses",
         "excerpt": "Road Users\u2019 Handbook 58 Sharing the road with trucks and buses Trucks and buses are usually substantially larger than a standard vehicle. They are longer, heavier and more powerful. To drive with them safely, keep the following basic principles in mind. Allow more room for heavy vehicles to stop Heavy vehicles need a long distance to stop. So if the traffic..."
       }
-    ]
+    ],
+    "sourcePage": 55
   },
   {
     "id": "nd012",
@@ -5181,7 +5429,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 55
   },
   {
     "id": "nd014",
@@ -5205,7 +5454,8 @@
         "sectionTitle": "Road positioning",
         "excerpt": "Road Users\u2019 Handbook 62 Road positioning Position your vehicle to maximise the distance from hazards (referred to as buffering). For example, moving to the left at the crest of a hill to create space from oncoming vehicles, or moving away from parked cars to avoid pedestrians and doors opening. Check your mirrors before making any change to your speed or pos..."
       }
-    ]
+    ],
+    "sourcePage": 56
   },
   {
     "id": "nd015",
@@ -5229,7 +5479,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 56,
+    "imageId": "images/questions/nd015.png"
   },
   {
     "id": "nd019",
@@ -5253,7 +5505,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 56
   },
   {
     "id": "nd020",
@@ -5277,7 +5530,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 57
   },
   {
     "id": "nd021",
@@ -5301,7 +5555,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 57
   },
   {
     "id": "nd028",
@@ -5325,7 +5580,8 @@
         "sectionTitle": "Speeding offences",
         "excerpt": "Road Users\u2019 Handbook 164 Speeding offences Penalties for exceeding the speed limit include demerit points, fines and licence suspension. Penalties increase depending on how many kilometres over the speed limit you are going. The minimum penalty for speeding is one demerit points. Over the speed limit by 30 km/h and 45 km/h If you go over the speed limit by:..."
       }
-    ]
+    ],
+    "sourcePage": 57
   },
   {
     "id": "nd030",
@@ -5349,7 +5605,8 @@
         "sectionTitle": "Speeding offences",
         "excerpt": "Road Users\u2019 Handbook 164 Speeding offences Penalties for exceeding the speed limit include demerit points, fines and licence suspension. Penalties increase depending on how many kilometres over the speed limit you are going. The minimum penalty for speeding is one demerit points. Over the speed limit by 30 km/h and 45 km/h If you go over the speed limit by:..."
       }
-    ]
+    ],
+    "sourcePage": 57
   },
   {
     "id": "nd031",
@@ -5373,7 +5630,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 57
   },
   {
     "id": "nd032",
@@ -5397,7 +5655,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 58
   },
   {
     "id": "nd033",
@@ -5421,7 +5680,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 58
   },
   {
     "id": "nd034",
@@ -5445,7 +5705,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 58
   },
   {
     "id": "nd035",
@@ -5469,7 +5730,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 58
   },
   {
     "id": "nd038",
@@ -5493,7 +5755,8 @@
         "sectionTitle": "Test your knowledge",
         "excerpt": "Road Users\u2019 Handbook 169 Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. If the police suspect you may have been involved in street or drag racing, they may take immediate action. Which one of the following is correct? The police may - a) Take your vehicle to the local police station and keep it un..."
       }
-    ]
+    ],
+    "sourcePage": 59
   },
   {
     "id": "nd039",
@@ -5517,7 +5780,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 59
   },
   {
     "id": "nd040",
@@ -5541,7 +5805,8 @@
         "sectionTitle": "Speeding offences",
         "excerpt": "Road Users\u2019 Handbook 165 Negligent or dangerous driving causing injury or death The law provides for serious charges to be laid against people driving a vehicle in a negligent or dangerous manner which causes injury or death. As the driver of a vehicle involved in a crash where somebody is injured because of your negligent driving, you could be imprisoned, f..."
       }
-    ]
+    ],
+    "sourcePage": 59
   },
   {
     "id": "nd044",
@@ -5565,7 +5830,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 59
   },
   {
     "id": "nd045",
@@ -5589,7 +5855,8 @@
         "sectionTitle": "Licence restrictions for P2 licences",
         "excerpt": "Road Users\u2019 Handbook 25 Licence restrictions for P2 licences Blood Alcohol Your BAC must be zero. This means you cannot have Concentration (BAC) any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur seven or more points. Display of P signs P signs (green P on a white background) must be clearly displa..."
       }
-    ]
+    ],
+    "sourcePage": 59
   },
   {
     "id": "nd046",
@@ -5613,7 +5880,8 @@
         "sectionTitle": "Speed limit signs",
         "excerpt": "Road Users\u2019 Handbook 39 Speed limit signs Speed limit signs state the maximum speed you are allowed to drive in good conditions. Although you must not go faster than the speed limit allows, you can drive slower if you wish. Slow down in poor conditions Driving conditions can vary and change quickly, so it is important to slow down when road, weather and ligh..."
       }
-    ]
+    ],
+    "sourcePage": 60
   },
   {
     "id": "nd047",
@@ -5637,7 +5905,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 60
   },
   {
     "id": "nd048",
@@ -5661,7 +5930,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 60
   },
   {
     "id": "pd001",
@@ -5685,7 +5955,9 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 61,
+    "imageId": "images/questions/pd001.png"
   },
   {
     "id": "pd002",
@@ -5709,7 +5981,9 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 61,
+    "imageId": "images/questions/pd002.png"
   },
   {
     "id": "pd003",
@@ -5733,7 +6007,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 61
   },
   {
     "id": "pd004",
@@ -5757,7 +6032,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 61
   },
   {
     "id": "pd005",
@@ -5781,7 +6057,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 62
   },
   {
     "id": "pd006",
@@ -5805,7 +6082,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 62
   },
   {
     "id": "pd007",
@@ -5829,7 +6107,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 62
   },
   {
     "id": "pd009",
@@ -5853,7 +6132,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 62
   },
   {
     "id": "pd010",
@@ -5877,7 +6157,8 @@
         "sectionTitle": "Sample test questions",
         "excerpt": "Road Users\u2019 Handbook 60 Sample test questions Test your knowledge Circle the correct answer. Then check to see if you are right at the end of the book. 1. If you get sleepy while driving, is it best to? a) Turn on the radio very loud b) Stop, rest, and change drivers if possible c) Turn on the air conditioning or open the windows 2. Pedestrians who are affec..."
       }
-    ]
+    ],
+    "sourcePage": 63
   },
   {
     "id": "pd011",
@@ -5901,7 +6182,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 63
   },
   {
     "id": "pd012",
@@ -5925,7 +6207,8 @@
         "sectionTitle": "Sharing the road with trucks and buses",
         "excerpt": "Road Users\u2019 Handbook 58 Sharing the road with trucks and buses Trucks and buses are usually substantially larger than a standard vehicle. They are longer, heavier and more powerful. To drive with them safely, keep the following basic principles in mind. Allow more room for heavy vehicles to stop Heavy vehicles need a long distance to stop. So if the traffic..."
       }
-    ]
+    ],
+    "sourcePage": 63
   },
   {
     "id": "pd013",
@@ -5949,7 +6232,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 63
   },
   {
     "id": "pd014",
@@ -5973,7 +6257,8 @@
         "sectionTitle": "Alcohol, drugs, medicines and driving",
         "excerpt": "Road Users\u2019 Handbook 40 plenty of water and take regular rest breaks at appropriate locations when driving in extreme weather conditions. Alcohol, drugs, medicines and driving It is illegal to drive while under the influence of alcohol or drugs, including some over-the-counter and prescription medicines. They significantly affect your driving skills and incr..."
       }
-    ]
+    ],
+    "sourcePage": 63
   },
   {
     "id": "pd015",
@@ -5997,7 +6282,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 64
   },
   {
     "id": "pd016",
@@ -6021,7 +6307,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 64
   },
   {
     "id": "pd017",
@@ -6045,7 +6332,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 64
   },
   {
     "id": "pd018",
@@ -6069,7 +6357,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 65
   },
   {
     "id": "pd019",
@@ -6093,7 +6382,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 51 \u2022 At intersections where pedestrians cross (pedestrians have the right of way on the road into which you are turning) \u2022 Where there are special events being held. When are pedestrians at risk? More than half of pedestrian fatalities occur in darkness or dusk. Take extra care to watch out for pedestrians at these times Remember to driv..."
       }
-    ]
+    ],
+    "sourcePage": 65
   },
   {
     "id": "pd021",
@@ -6117,7 +6407,8 @@
         "sectionTitle": "Roundabouts",
         "excerpt": "Road Users\u2019 Handbook 95 Roundabouts Many intersections have a central roundabout. Roundabouts manage the traffic flow in roads with either a single lane or multiple lanes. Signs identifying Roundabouts These are the signs that are associated with roundabouts. Do not drive on the central island of a roundabout unless the size of your vehicle means that you ca..."
       }
-    ]
+    ],
+    "sourcePage": 65
   },
   {
     "id": "pd022",
@@ -6141,7 +6432,9 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 66,
+    "imageId": "images/questions/pd022.png"
   },
   {
     "id": "pd023",
@@ -6165,7 +6458,8 @@
         "sectionTitle": "Safety tips for pedestrians",
         "excerpt": "Road Users\u2019 Handbook 52 Safety tips for pedestrians Cross the road at pedestrian facilities such as crossings and traffic lights. Before crossing the road think about whether an approaching driver can see you. \u2022 Before crossing the road - stop, look, listen and think \u2022 Never assume that an approaching vehicle will stop for you \u2022 Avoid crossing between parked..."
       }
-    ]
+    ],
+    "sourcePage": 66
   },
   {
     "id": "pd024",
@@ -6189,7 +6483,8 @@
         "sectionTitle": "Pedestrian crossings and refuges",
         "excerpt": "Road Users\u2019 Handbook 108 Pedestrian crossings and refuges You must share the road with pedestrians. Special markings on the road show where pedestrians have special rights. You must give way to pedestrians crossing the road into which you are turning. You must also give way to pedestrians - even if there is no marked pedestrian crossing - if there is any dan..."
       }
-    ]
+    ],
+    "sourcePage": 66
   },
   {
     "id": "pd025",
@@ -6213,7 +6508,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 66
   },
   {
     "id": "pd026",
@@ -6237,7 +6533,8 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 67
   },
   {
     "id": "pd027",
@@ -6261,7 +6558,8 @@
         "sectionTitle": "Sharing the road with trucks and buses",
         "excerpt": "Road Users\u2019 Handbook 58 Sharing the road with trucks and buses Trucks and buses are usually substantially larger than a standard vehicle. They are longer, heavier and more powerful. To drive with them safely, keep the following basic principles in mind. Allow more room for heavy vehicles to stop Heavy vehicles need a long distance to stop. So if the traffic..."
       }
-    ]
+    ],
+    "sourcePage": 67
   },
   {
     "id": "pd028",
@@ -6285,7 +6583,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 67
   },
   {
     "id": "pd030",
@@ -6309,7 +6608,8 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 68
   },
   {
     "id": "pd031",
@@ -6333,7 +6633,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 68
   },
   {
     "id": "sb002",
@@ -6357,7 +6658,8 @@
         "sectionTitle": "LICENCE RESTRICTIONS FOR P1 LICENCES",
         "excerpt": "Road Users\u2019 Handbook 23 LICENCE RESTRICTIONS FOR P1 LICENCES Automatic You are restricted to driving an automatic transmission vehicles vehicle if tested in one. Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur fo..."
       }
-    ]
+    ],
+    "sourcePage": 69
   },
   {
     "id": "sb003",
@@ -6381,7 +6683,8 @@
         "sectionTitle": "Organ donor - person who wishes",
         "excerpt": "Road Users\u2019 Handbook 176 Organ donor - person who wishes to donate their organs (liver, kidney, lungs etc) for transplant after they have died. Overcrowding - having more occupants in a vehicle than available seats. Overloaded (vehicle) - a vehicle carrying a load that is too big or heavy for the vehicle to carry it safely or legally. Overseas - outside Aust..."
       }
-    ]
+    ],
+    "sourcePage": 69
   },
   {
     "id": "sb007",
@@ -6405,7 +6708,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 69
   },
   {
     "id": "sb008",
@@ -6429,7 +6733,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 69
   },
   {
     "id": "sb011",
@@ -6453,7 +6758,8 @@
         "sectionTitle": "The driver is responsible",
         "excerpt": "Road Users\u2019 Handbook 48 The driver is responsible Drivers are responsible for all passengers being properly restrained in a seatbelt or approved child restraint. There are fines and demerit points for a driver who is not wearing a seatbelt or who fails to ensure that passengers use seatbelts where available. Passengers aged 16 years and over who do not use a..."
       }
-    ]
+    ],
+    "sourcePage": 69
   },
   {
     "id": "sb012",
@@ -6477,7 +6783,8 @@
         "sectionTitle": "Summary",
         "excerpt": "Road Users\u2019 Handbook 9 Section 3: Road safety To make sure our roads are safe for all road users, it is critically important that you understand how to behave on the road to prevent crashes. Drivers, passengers, motorcyclists, cyclists and pedestrians all need to be aware of their responsibilities when sharing the road. Section 3 explains: \u2022 Speeding and its..."
       }
-    ]
+    ],
+    "sourcePage": 70
   },
   {
     "id": "sb013",
@@ -6501,7 +6808,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 70
   },
   {
     "id": "sb016",
@@ -6525,7 +6833,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 70
   },
   {
     "id": "sb017",
@@ -6549,7 +6858,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 70
   },
   {
     "id": "sb019",
@@ -6573,7 +6883,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 71
   },
   {
     "id": "sb022",
@@ -6597,7 +6908,8 @@
         "sectionTitle": "Licence Restrictions for Learners",
         "excerpt": "Road Users\u2019 Handbook 21 Licence Restrictions for Learners Blood Alcohol Your BAC must be zero. This means you Concentration (BAC) cannot have any alcohol in your system when you drive a vehicle. Demerit points Your licence will be suspended if you incur four or more demerit points. Display of L signs L signs must be clearly displayed on the front and back of..."
       }
-    ]
+    ],
+    "sourcePage": 71
   },
   {
     "id": "sb023",
@@ -6621,7 +6933,8 @@
         "sectionTitle": "Seatbelts and child restraints",
         "excerpt": "Road Users\u2019 Handbook 81 Seatbelts and child restraints Seatbelts Everyone in a vehicle must wear a seatbelt Everyone in a vehicle, the driver and all passengers, must wear a correctly fitted and adjusted seatbelt when they are available. A passenger must move to a seat with a seatbelt rather than sit in one without a seatbelt. If the vehicle does not have se..."
       }
-    ]
+    ],
+    "sourcePage": 71
   },
   {
     "id": "sl007",
@@ -6645,7 +6958,8 @@
         "sectionTitle": "Section 5 General road rules",
         "excerpt": "Road Users\u2019 Handbook 171 Section 5 General road rules 1. Are you permitted to make a U-Turn at traffic lights? b) No unless there is a U-TURN Permitted sign at the intersection. 2. The first thing you should do before overtaking is - b) Make sure it is safe and the way is clear of oncoming traffic. 3. Driving faster than the maximum speed limit is - c) Never..."
       }
-    ]
+    ],
+    "sourcePage": 71
   },
   {
     "id": "sl015",
@@ -6669,7 +6983,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 72
   },
   {
     "id": "sl021",
@@ -6693,7 +7008,8 @@
         "sectionTitle": "Fog lights",
         "excerpt": "Road Users\u2019 Handbook 145 Fog lights Front and rear fog lights must only be used in fog or rain, or when conditions such as smoke and dust limit your vision. It is a legal requirement that once conditions improve and you can see more clearly, the front and rear fog lights are switched off. If your vehicle is not fitted with fog lights you may use your headlig..."
       }
-    ]
+    ],
+    "sourcePage": 72
   },
   {
     "id": "sl022",
@@ -6717,7 +7033,8 @@
         "sectionTitle": "General road rules",
         "excerpt": "Road Users\u2019 Handbook 75 General road rules Areas without speed signs Some roads do not have speed signs, such as unsealed roads and roads in remote areas. On these roads an end speed limit or speed de-restriction sign indicates you are entering an area without speed signs. In these areas the default speed limits apply and you must drive to the conditions. En..."
       }
-    ]
+    ],
+    "sourcePage": 72
   },
   {
     "id": "sl023",
@@ -6741,7 +7058,8 @@
         "sectionTitle": "Speed limit signs",
         "excerpt": "Road Users\u2019 Handbook 39 Speed limit signs Speed limit signs state the maximum speed you are allowed to drive in good conditions. Although you must not go faster than the speed limit allows, you can drive slower if you wish. Slow down in poor conditions Driving conditions can vary and change quickly, so it is important to slow down when road, weather and ligh..."
       }
-    ]
+    ],
+    "sourcePage": 72
   },
   {
     "id": "sl025",
@@ -6765,7 +7083,8 @@
         "sectionTitle": "Summary",
         "excerpt": "Road Users\u2019 Handbook 10 Section 5: General road rules Every road user needs a working knowledge of the rules that apply to our roads. This section offers comprehensive coverage of the main rules governing our roads. Section 5 explains: \u2022 Speed limits and how they apply in different zones \u2022 The rules about drinking and driving \u2022 A driver\u2019s responsibility for..."
       }
-    ]
+    ],
+    "sourcePage": 73
   },
   {
     "id": "sl026",
@@ -6789,7 +7108,8 @@
         "sectionTitle": "BICYCLE RIDER SAFETY",
         "excerpt": "Road Users\u2019 Handbook 56 BICYCLE RIDER SAFETY \u2022 You, and any passenger, must wear correctly fitted approved bicycle helmets \u2022 Always obey traffic lights and signs \u2022 You must ride with traffic on the left side of the road \u2022 A hand signal when turning right or merging into the right lane is required by law \u2022 You do not need to give a left or stop signal, or sig..."
       }
-    ]
+    ],
+    "sourcePage": 73
   },
   {
     "id": "sl028",
@@ -6813,7 +7133,8 @@
         "sectionTitle": "General road rules",
         "excerpt": "Road Users\u2019 Handbook 75 General road rules Areas without speed signs Some roads do not have speed signs, such as unsealed roads and roads in remote areas. On these roads an end speed limit or speed de-restriction sign indicates you are entering an area without speed signs. In these areas the default speed limits apply and you must drive to the conditions. En..."
       }
-    ]
+    ],
+    "sourcePage": 73
   },
   {
     "id": "sl030",
@@ -6837,7 +7158,9 @@
         "sectionTitle": "Sharing the road",
         "excerpt": "Road Users\u2019 Handbook 50 Sharing the road Everyone who uses NSW roads to drive, ride or walk has a responsibility to share the road with others. By respecting the needs of all road users, you can help make our roads safer for everyone. Considering others As road users we need to consider others and understand that we all make mistakes. If somebody does someth..."
       }
-    ]
+    ],
+    "sourcePage": 73,
+    "imageId": "images/questions/sl030.png"
   },
   {
     "id": "sl031",
@@ -6861,7 +7184,9 @@
         "sectionTitle": "General road rules",
         "excerpt": "Road Users\u2019 Handbook 75 General road rules Areas without speed signs Some roads do not have speed signs, such as unsealed roads and roads in remote areas. On these roads an end speed limit or speed de-restriction sign indicates you are entering an area without speed signs. In these areas the default speed limits apply and you must drive to the conditions. En..."
       }
-    ]
+    ],
+    "sourcePage": 73,
+    "imageId": "images/questions/sl031.png"
   },
   {
     "id": "sl032",
@@ -6885,7 +7210,9 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 74,
+    "imageId": "images/questions/sl032.png"
   },
   {
     "id": "sl034",
@@ -6909,7 +7236,9 @@
         "sectionTitle": "Section 2 Licences",
         "excerpt": "Road Users\u2019 Handbook 170 These are the answers to the knowledge questions at the end of each section. For more sample questions visit www.rms.nsw.gov.au Section 2 Licences 1. Can a P1 or P2 driver legally instruct a learner driver? a) No 2. To progress to a P2 licence, a P1 driver must hold a P1 licence for a minimum period of - b) 12 months 3. Are you requi..."
       }
-    ]
+    ],
+    "sourcePage": 74,
+    "imageId": "images/questions/sl034.png"
   },
   {
     "id": "sl035",
@@ -6933,7 +7262,8 @@
         "sectionTitle": "Making our roads safer for everyone",
         "excerpt": "Road Users\u2019 Handbook 37 Making our roads safer for everyone Every year over 400 people are killed on NSW roads. A further 25,000 are injured. The major behavioural factors for deaths on the road are speeding, drink driving, fatigue and not wearing seatbelts. The graph below shows the major behavioural factors identified for young drivers/riders (aged 17-25)..."
       }
-    ]
+    ],
+    "sourcePage": 75
   },
   {
     "id": "tl001",
@@ -6957,7 +7287,9 @@
         "sectionTitle": "Pedestrian signals",
         "excerpt": "Road Users\u2019 Handbook 102 Pedestrian signals When making a turn at an intersection you must give way to pedestrians on the road into which you are turning. Where the traffic at the intersection is controlled by traffic lights, there may be signals for pedestrians that show them when to cross. Pedestrians must follow these signals. Pedestrians must not start t..."
       }
-    ]
+    ],
+    "sourcePage": 76,
+    "imageId": "images/questions/tl001.png"
   },
   {
     "id": "tl002",
@@ -6981,7 +7313,8 @@
         "sectionTitle": "Bicycle riders",
         "excerpt": "Road Users\u2019 Handbook 101 Bicycle riders Where the traffic at an intersection is controlled by traffic lights, cyclists may have signals that show them when to cross. Cyclists must follow these red, yellow or green bicycle symbols and proceed with care. T signals T signals are special signals for light rail vehicles. These traffic lights display the letter T...."
       }
-    ]
+    ],
+    "sourcePage": 76
   },
   {
     "id": "tl003",
@@ -7005,7 +7338,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 76
   },
   {
     "id": "tl004",
@@ -7029,7 +7363,9 @@
         "sectionTitle": "Bicycle stopping areas",
         "excerpt": "Road Users\u2019 Handbook 57 Bicycle stopping areas Some intersections have painted bicycle storage areas where you should stop if the lights are red. You should only enter bicycle storage areas from a bicycle lane. Hook turns by bicycle riders When turning right you may make a hook turn. A hook turn is when you use the left hand lane to turn right. The turn is m..."
       }
-    ]
+    ],
+    "sourcePage": 77,
+    "imageId": "images/questions/tl004.png"
   },
   {
     "id": "tl006",
@@ -7053,7 +7389,8 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 77
   },
   {
     "id": "tl007",
@@ -7077,7 +7414,8 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 77
   },
   {
     "id": "tl008",
@@ -7101,7 +7439,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 78,
+    "imageId": "images/questions/tl008.png"
   },
   {
     "id": "tl010",
@@ -7125,7 +7465,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 78
   },
   {
     "id": "tl011",
@@ -7149,7 +7490,9 @@
         "sectionTitle": "Bicycle stopping areas",
         "excerpt": "Road Users\u2019 Handbook 57 Bicycle stopping areas Some intersections have painted bicycle storage areas where you should stop if the lights are red. You should only enter bicycle storage areas from a bicycle lane. Hook turns by bicycle riders When turning right you may make a hook turn. A hook turn is when you use the left hand lane to turn right. The turn is m..."
       }
-    ]
+    ],
+    "sourcePage": 78,
+    "imageId": "images/questions/tl011.png"
   },
   {
     "id": "tl012",
@@ -7173,7 +7516,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 83 Intersections, give way and turning Approximately half the road crashes in NSW happen at intersections. It is very important that you approach an intersection at a speed that lets you give way to any vehicles in or approaching the intersection. It is an offence to get caught in the middle of the intersection when the lights change. Yo..."
       }
-    ]
+    ],
+    "sourcePage": 78
   },
   {
     "id": "tl013",
@@ -7197,7 +7541,8 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 79
   },
   {
     "id": "tl014",
@@ -7221,7 +7566,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 128 Overtaking Overtaking other vehicles can be dangerous. The difficulty with overtaking is judging the space required to complete the manoeuvre safely. Both single lane and multi-lane overtaking manoeuvres involve risk and require extreme care. If you have any doubts it is best not to overtake and to wait until it is safer. You must ov..."
       }
-    ]
+    ],
+    "sourcePage": 79,
+    "imageId": "images/questions/tl014.png"
   },
   {
     "id": "tl015",
@@ -7245,7 +7592,9 @@
         "sectionTitle": "Traffic lights",
         "excerpt": "Road Users\u2019 Handbook 98 Traffic lights Red means stop. Wait behind the stop line. Do not go through the intersection. Yellow (amber) means stop. You can enter the intersection if you are so close that sudden braking might cause a crash. Green means proceed through the intersection carefully. Turning arrows at traffic lights Some traffic lights have arrows to..."
       }
-    ]
+    ],
+    "sourcePage": 79,
+    "imageId": "images/questions/tl015.png"
   },
   {
     "id": "tl016",
@@ -7269,7 +7618,8 @@
         "sectionTitle": "Bicycle stopping areas",
         "excerpt": "Road Users\u2019 Handbook 57 Bicycle stopping areas Some intersections have painted bicycle storage areas where you should stop if the lights are red. You should only enter bicycle storage areas from a bicycle lane. Hook turns by bicycle riders When turning right you may make a hook turn. A hook turn is when you use the left hand lane to turn right. The turn is m..."
       }
-    ]
+    ],
+    "sourcePage": 79
   },
   {
     "id": "tl017",
@@ -7293,7 +7643,8 @@
         "sectionTitle": "Bicycle riders",
         "excerpt": "Road Users\u2019 Handbook 101 Bicycle riders Where the traffic at an intersection is controlled by traffic lights, cyclists may have signals that show them when to cross. Cyclists must follow these red, yellow or green bicycle symbols and proceed with care. T signals T signals are special signals for light rail vehicles. These traffic lights display the letter T...."
       }
-    ]
+    ],
+    "sourcePage": 80
   },
   {
     "id": "tl018",
@@ -7317,7 +7668,8 @@
         "sectionTitle": "Intersections, give way and turning",
         "excerpt": "Road Users\u2019 Handbook 84 Give way rules where there are no signs Some crossroads have no traffic lights or signs. Generally if you\u2019re turning across another vehicle\u2019s path, you must give way. When turning at an intersection, you (car A in following diagrams) must give way to: \u2022 Oncoming vehicles going straight ahead (diagram 1 below) \u2022 Oncoming vehicles turni..."
       }
-    ]
+    ],
+    "sourcePage": 80
   },
   {
     "id": "tl019",
@@ -7341,7 +7693,8 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 80
   },
   {
     "id": "si001",
@@ -7365,7 +7718,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 81,
+    "imageId": "images/questions/si001.png"
   },
   {
     "id": "si002",
@@ -7389,7 +7744,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 81,
+    "imageId": "images/questions/si002.png"
   },
   {
     "id": "si003",
@@ -7413,7 +7770,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 81,
+    "imageId": "images/questions/si003.png"
   },
   {
     "id": "si004",
@@ -7437,7 +7796,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 82,
+    "imageId": "images/questions/si004.png"
   },
   {
     "id": "si006",
@@ -7461,7 +7822,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 82,
+    "imageId": "images/questions/si006.png"
   },
   {
     "id": "si007",
@@ -7485,7 +7848,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 82,
+    "imageId": "images/questions/si007.png"
   },
   {
     "id": "si008",
@@ -7509,7 +7874,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 82,
+    "imageId": "images/questions/si008.png"
   },
   {
     "id": "si009",
@@ -7533,7 +7900,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 83,
+    "imageId": "images/questions/si009.png"
   },
   {
     "id": "si013",
@@ -7557,7 +7926,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 83,
+    "imageId": "images/questions/si013.png"
   },
   {
     "id": "si014",
@@ -7581,7 +7952,9 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 83,
+    "imageId": "images/questions/si014.png"
   },
   {
     "id": "si016",
@@ -7605,7 +7978,9 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 83,
+    "imageId": "images/questions/si016.png"
   },
   {
     "id": "si017",
@@ -7629,7 +8004,9 @@
         "sectionTitle": "Stop signs and stop lines",
         "excerpt": "Road Users\u2019 Handbook 86 Stop signs and stop lines \u2018STOP\u2019 signs and \u2018STOP\u2019 lines (continuous line) are used at intersections to control traffic. When you come to a STOP sign you must stop completely before reaching the STOP line, and as close as possible to the line. Where there is no STOP line, stop before reaching, and as close as possible, to the intersect..."
       }
-    ]
+    ],
+    "sourcePage": 84,
+    "imageId": "images/questions/si017.png"
   },
   {
     "id": "si018",
@@ -7653,7 +8030,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 84,
+    "imageId": "images/questions/si018.png"
   },
   {
     "id": "si019",
@@ -7677,7 +8056,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 84,
+    "imageId": "images/questions/si019.png"
   },
   {
     "id": "si020",
@@ -7701,7 +8082,9 @@
         "sectionTitle": "Pedestrians may be",
         "excerpt": "Road Users\u2019 Handbook 114 Stop sign ahead. Pedestrian crossing ahead. Pedestrians may be crossing ahead. Children may be crossing ahead. Hospital ahead. Drive carefully. Look out for bicycle riders. Road is slippery when wet. Steep descent ahead. Beware of slow moving vehicles entering traffic. This sign is used where a temporary emergency situation such as a..."
       }
-    ]
+    ],
+    "sourcePage": 84,
+    "imageId": "images/questions/si020.png"
   },
   {
     "id": "si021",
@@ -7725,7 +8108,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 85,
+    "imageId": "images/questions/si021.png"
   },
   {
     "id": "si022",
@@ -7749,7 +8134,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 85,
+    "imageId": "images/questions/si022.png"
   },
   {
     "id": "si024",
@@ -7773,7 +8160,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 85,
+    "imageId": "images/questions/si024.png"
   },
   {
     "id": "si025",
@@ -7797,7 +8186,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 86,
+    "imageId": "images/questions/si025.png"
   },
   {
     "id": "si026",
@@ -7821,7 +8212,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 86,
+    "imageId": "images/questions/si026.png"
   },
   {
     "id": "si027",
@@ -7845,7 +8238,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 86,
+    "imageId": "images/questions/si027.png"
   },
   {
     "id": "si028",
@@ -7869,7 +8264,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 87,
+    "imageId": "images/questions/si028.png"
   },
   {
     "id": "si030",
@@ -7893,7 +8290,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 87,
+    "imageId": "images/questions/si030.png"
   },
   {
     "id": "si031",
@@ -7917,7 +8316,9 @@
         "sectionTitle": "Pedestrians may be",
         "excerpt": "Road Users\u2019 Handbook 114 Stop sign ahead. Pedestrian crossing ahead. Pedestrians may be crossing ahead. Children may be crossing ahead. Hospital ahead. Drive carefully. Look out for bicycle riders. Road is slippery when wet. Steep descent ahead. Beware of slow moving vehicles entering traffic. This sign is used where a temporary emergency situation such as a..."
       }
-    ]
+    ],
+    "sourcePage": 87,
+    "imageId": "images/questions/si031.png"
   },
   {
     "id": "si032",
@@ -7941,7 +8342,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 87,
+    "imageId": "images/questions/si032.png"
   },
   {
     "id": "si033",
@@ -7965,7 +8368,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 88,
+    "imageId": "images/questions/si033.png"
   },
   {
     "id": "si035",
@@ -7989,7 +8394,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 88,
+    "imageId": "images/questions/si035.png"
   },
   {
     "id": "si036",
@@ -8013,7 +8420,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 88,
+    "imageId": "images/questions/si036.png"
   },
   {
     "id": "si038",
@@ -8037,7 +8446,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 89,
+    "imageId": "images/questions/si038.png"
   },
   {
     "id": "si039",
@@ -8061,7 +8472,9 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 89,
+    "imageId": "images/questions/si039.png"
   },
   {
     "id": "si040",
@@ -8085,7 +8498,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 89,
+    "imageId": "images/questions/si040.png"
   },
   {
     "id": "si041",
@@ -8109,7 +8524,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 89,
+    "imageId": "images/questions/si041.png"
   },
   {
     "id": "si042",
@@ -8133,7 +8550,9 @@
         "sectionTitle": "Traffic signs",
         "excerpt": "Road Users\u2019 Handbook 111 Traffic signs Traffic signs warn you of possible dangers and provide information. They tell you what the rules are and what the road conditions are like. Regulatory signs Regulatory signs tell you about laws that must be obeyed. Except for STOP, GIVE WAY and ROUNDABOUT signs, most regulatory signs are rectangles. They are usually bla..."
       }
-    ]
+    ],
+    "sourcePage": 90,
+    "imageId": "images/questions/si042.png"
   },
   {
     "id": "si043",
@@ -8157,7 +8576,9 @@
         "sectionTitle": "Railway level crossings",
         "excerpt": "Road Users\u2019 Handbook 146 Railway level crossings Level crossings can be dangerous especially when there are no gates, booms or flashing lights. When approaching a crossing, look and listen for trains. Slow down to a speed which allows you to stop quickly. Gates, booms or lights At gates, booms, or flashing lights, start to cross only when signals have stoppe..."
       }
-    ]
+    ],
+    "sourcePage": 90,
+    "imageId": "images/questions/si043.png"
   },
   {
     "id": "si045",
@@ -8181,7 +8602,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 90,
+    "imageId": "images/questions/si045.png"
   },
   {
     "id": "si046",
@@ -8205,7 +8628,9 @@
         "sectionTitle": "Parking restrictions",
         "excerpt": "Road Users\u2019 Handbook 138 Parking restrictions If you park in places such as clearways or no parking zones, you may restrict traffic flow and create danger for other road users and residents. You must obey all parking signs. Accessible parking Only vehicles transporting a current Mobility Parking Scheme (MPS) permit holder can park in areas displaying this si..."
       }
-    ]
+    ],
+    "sourcePage": 90,
+    "imageId": "images/questions/si046.png"
   },
   {
     "id": "si048",
@@ -8229,7 +8654,9 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 91,
+    "imageId": "images/questions/si048.png"
   },
   {
     "id": "si049",
@@ -8253,7 +8680,9 @@
         "sectionTitle": "Railway level crossings",
         "excerpt": "Road Users\u2019 Handbook 146 Railway level crossings Level crossings can be dangerous especially when there are no gates, booms or flashing lights. When approaching a crossing, look and listen for trains. Slow down to a speed which allows you to stop quickly. Gates, booms or lights At gates, booms, or flashing lights, start to cross only when signals have stoppe..."
       }
-    ]
+    ],
+    "sourcePage": 91,
+    "imageId": "images/questions/si049.png"
   },
   {
     "id": "si050",
@@ -8277,7 +8706,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 91,
+    "imageId": "images/questions/si050.png"
   },
   {
     "id": "si051",
@@ -8301,7 +8732,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 91,
+    "imageId": "images/questions/si051.png"
   },
   {
     "id": "si052",
@@ -8325,7 +8758,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 92,
+    "imageId": "images/questions/si052.png"
   },
   {
     "id": "si053",
@@ -8349,7 +8784,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 92,
+    "imageId": "images/questions/si053.png"
   },
   {
     "id": "si056",
@@ -8373,7 +8810,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 92,
+    "imageId": "images/questions/si056.png"
   },
   {
     "id": "si057",
@@ -8397,7 +8836,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 92,
+    "imageId": "images/questions/si057.png"
   },
   {
     "id": "si058",
@@ -8421,7 +8862,9 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 93,
+    "imageId": "images/questions/si058.png"
   },
   {
     "id": "si059",
@@ -8445,7 +8888,9 @@
         "sectionTitle": "Signs at traffic lights",
         "excerpt": "Road Users\u2019 Handbook 99 Some intersections that have traffic lights contain bicycle storage areas. These painted areas on the road allow cyclist to stop in safety. When traffic lights or arrows are red, drivers must not allow any part of the vehicle to enter the bicycle storage area Signs at traffic lights A STOP sign with three black dots is only seen at tr..."
       }
-    ]
+    ],
+    "sourcePage": 93,
+    "imageId": "images/questions/si059.png"
   },
   {
     "id": "si060",
@@ -8469,7 +8914,9 @@
         "sectionTitle": "Give way signs and give way lines",
         "excerpt": "Road Users\u2019 Handbook 87 Give way signs and give way lines \u2018GIVE WAY\u2019 signs and \u2018GIVE WAY\u2019 lines (broken line) are used at intersections to control traffic. When you come to a GIVE WAY sign you must slow down and prepare to stop if necessary. A GIVE WAY sign or line means you must give way to all vehicles travelling in, entering or approaching the intersectio..."
       }
-    ]
+    ],
+    "sourcePage": 93,
+    "imageId": "images/questions/si060.png"
   },
   {
     "id": "si061",
@@ -8493,7 +8940,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 93,
+    "imageId": "images/questions/si061.png"
   },
   {
     "id": "si062",
@@ -8517,7 +8966,9 @@
         "sectionTitle": "Overtaking",
         "excerpt": "Road Users\u2019 Handbook 129 On roads with a speed limit of more than 80 km/h, or a KEEP LEFT UNLESS OVERTAKING sign, you must drive in the left lane unless you want to overtake or turn right. When being overtaken you must: \u2022 Not increase your speed \u2022 Keep left and allow reasonable space for the overtaking vehicle to pass and move back into the lane \u2022 Keep withi..."
       }
-    ]
+    ],
+    "sourcePage": 93,
+    "imageId": "images/questions/si062.png"
   },
   {
     "id": "si063",
@@ -8541,7 +8992,9 @@
         "sectionTitle": "Pedestrian refuges",
         "excerpt": "Road Users\u2019 Handbook 109 Pedestrian refuges A pedestrian refuge is an island in the middle of the road. The island allows pedestrians to cross the road in two stages. Approaches to pedestrian refuges are signposted. When you are approaching a pedestrian refuge you should look out for pedestrians. Pelican crossings A pelican crossing is a special kind of pede..."
       }
-    ]
+    ],
+    "sourcePage": 94,
+    "imageId": "images/questions/si063.png"
   },
   {
     "id": "si064",
@@ -8565,6 +9018,8 @@
         "sectionTitle": "Parking",
         "excerpt": "Road Users\u2019 Handbook 134 Parking Parking rules are designed to stop vehicles from parking where it would be dangerous or inconvenient for others. Checks for parking Before getting out of your vehicle you must check your mirrors and blind spots for pedestrians, bicycles or other vehicles. Before leaving your parked vehicle you must ensure that \u2022 The parking b..."
       }
-    ]
+    ],
+    "sourcePage": 94,
+    "imageId": "images/questions/si064.png"
   }
 ]

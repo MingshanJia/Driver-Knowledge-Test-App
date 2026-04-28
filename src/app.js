@@ -191,6 +191,7 @@ function renderLearning() {
     <section class="question-panel">
       <div class="eyebrow">${question.sourceCode} · ${labels[question.category] || "Question"}</div>
       <h2>${escapeHtml(question.prompt)}</h2>
+      ${renderQuestionImage(question)}
       <div class="options">
         ${state.learning.shuffled.map((choice) => optionButton(choice, state.learning.selected, state.learning.confirmed, question.correctChoice, "select-learning")).join("")}
       </div>
@@ -254,6 +255,7 @@ function renderMock() {
     <section class="question-panel">
       <div class="eyebrow">${labels[question.category]} · ${question.sourceCode}</div>
       <h2>${escapeHtml(question.prompt)}</h2>
+      ${renderQuestionImage(question)}
       <div class="options">
         ${item.choices.map((choice) => optionButton(choice, mock.selected, mock.confirmed, question.correctChoice, "select-mock")).join("")}
       </div>
@@ -282,6 +284,15 @@ function renderMockSummary(summary, answers) {
         </article>
       `).join("")}
     </section>
+  `;
+}
+
+function renderQuestionImage(question) {
+  if (!question.imageId) return "";
+  return `
+    <figure class="question-image">
+      <img src="./public/${escapeHtml(question.imageId)}" alt="Question illustration for ${escapeHtml(question.sourceCode)}" loading="lazy" />
+    </figure>
   `;
 }
 

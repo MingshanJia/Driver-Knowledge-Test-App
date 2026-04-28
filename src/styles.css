@@ -194,6 +194,26 @@ select {
   margin: 24px 0;
 }
 
+.question-image {
+  margin: 18px 0 8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.question-image img {
+  display: block;
+  max-width: min(100%, 420px);
+  max-height: 280px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: #ffffff;
+  border: 1px solid #d7dee6;
+  border-radius: 6px;
+  padding: 10px;
+}
+
 .option {
   min-height: 58px;
   text-align: left;

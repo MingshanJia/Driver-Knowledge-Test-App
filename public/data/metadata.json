@@ -10,6 +10,6 @@
   "notes": [
     "The official PDF presents the correct choice first; the app shuffles choices in the UI.",
     "Handbook references are matched from local handbook text and should be reviewed for high-stakes use.",
-    "Some source questions refer to images in the PDF; public/data/image-map.json is reserved for reviewed image mappings."
+    "Images are extracted from the source PDF and matched to visual questions by page/order. Review image-map.json for exact official-quality mappings."
   ]
 }
