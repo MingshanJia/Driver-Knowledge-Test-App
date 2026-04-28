@@ -1,0 +1,15 @@
+{
+  "questionSource": "driver-knowledge-test-questions-car.pdf",
+  "handbookSource": "road_users_handbook-english.pdf",
+  "questionCount": 357,
+  "categoryCounts": {
+    "general": 82,
+    "road_safety": 224,
+    "traffic_signs": 51
+  },
+  "notes": [
+    "The official PDF presents the correct choice first; the app shuffles choices in the UI.",
+    "Handbook references are matched from local handbook text and should be reviewed for high-stakes use.",
+    "Some source questions refer to images in the PDF; public/data/image-map.json is reserved for reviewed image mappings."
+  ]
+}
