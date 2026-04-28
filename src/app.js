@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "handbook-build-8",
+  buildVersion: "layout-build-9",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=8").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=8").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=8").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=9").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=9").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=9").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -229,7 +229,6 @@ function renderResult(correct, question) {
       <div class="reason">
         <h3>Reason</h3>
         ${renderExplanation(question)}
-        ${question.handbookRefs.length ? `<div class="references"><b>Handbook reference</b>${question.handbookRefs.map(renderHandbookRef).join("")}</div>` : ""}
       </div>
     </div>
   `;

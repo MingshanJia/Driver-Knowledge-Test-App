@@ -195,6 +195,10 @@ select {
   margin-bottom: 18px;
 }
 
+.question-panel {
+  max-width: 940px;
+}
+
 .eyebrow {
   color: #546477;
   font-weight: 700;
@@ -214,6 +218,7 @@ select {
   display: grid;
   gap: 12px;
   margin: 24px 0;
+  max-width: 780px;
 }
 
 .question-image {
@@ -243,11 +248,13 @@ select {
 }
 
 .option {
-  min-height: 58px;
+  min-height: 54px;
   text-align: left;
   white-space: normal;
   line-height: 1.35;
-  padding: 14px 16px;
+  padding: 13px 16px;
+  display: block;
+  width: 100%;
 }
 
 .option.selected {
