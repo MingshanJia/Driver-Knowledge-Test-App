@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "reason-build-6",
+  buildVersion: "explanation-build-7",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=6").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=6").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=6").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=7").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=7").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=7").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -226,7 +226,7 @@ function renderResult(correct, question) {
       <p>The correct answer is: ${escapeHtml(question.correctChoice)}</p>
       <div class="reason">
         <h3>Reason</h3>
-        <p>${escapeHtml(question.reason || fallbackReason(question))}</p>
+        ${renderExplanation(question)}
         ${question.handbookRefs.length ? `<div class="references"><b>Handbook reference</b>${question.handbookRefs.map((ref) => `<span>${escapeHtml(ref.sectionTitle || "Road User Handbook")} · page ${ref.page}</span>`).join("")}</div>` : ""}
       </div>
     </div>
@@ -234,7 +234,19 @@ function renderResult(correct, question) {
 }
 
 function fallbackReason(question) {
-  return `The correct answer is: ${question.correctChoice} This is the legal or safest action for the situation described.`;
+  return `This answer needs a reviewed explanation. Official answer: ${question.correctChoice}`;
+}
+
+function renderExplanation(question) {
+  const explanation = question.explanation;
+  if (!explanation) return `<p>${escapeHtml(question.reason || fallbackReason(question))}</p>`;
+  return `
+    <div class="explanation-block">
+      <p><b>Rule:</b> ${escapeHtml(explanation.principle)}</p>
+      <p><b>Why:</b> ${escapeHtml(explanation.application)}</p>
+      ${explanation.watchOut ? `<p><b>Watch out:</b> ${escapeHtml(explanation.watchOut)}</p>` : ""}
+    </div>
+  `;
 }
 
 function renderMock() {

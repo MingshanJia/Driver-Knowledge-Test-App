@@ -289,6 +289,16 @@ select {
   gap: 10px;
 }
 
+.explanation-block {
+  display: grid;
+  gap: 8px;
+}
+
+.explanation-block p {
+  margin: 0;
+  line-height: 1.5;
+}
+
 .references {
   display: flex;
   gap: 8px;
