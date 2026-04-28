@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "image-build-4",
+  buildVersion: "image-build-5",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=4").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=4").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=4").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=5").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=5").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=5").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -379,42 +379,44 @@ document.addEventListener("click", (event) => {
   const target = event.target.closest("[data-action]");
   if (!target) return;
   const action = target.dataset.action;
+  let handled = true;
   if (action === "nav") {
     state.view = target.dataset.view;
-  }
-  if (action === "start-mock") startMock();
-  if (action === "select-learning") state.learning.selected = decodeURIComponent(target.dataset.choice);
-  if (action === "confirm-learning") {
+  } else if (action === "start-mock") {
+    startMock();
+    return;
+  } else if (action === "select-learning") {
+    state.learning.selected = decodeURIComponent(target.dataset.choice);
+  } else if (action === "confirm-learning") {
     const question = currentLearningQuestion();
     const correct = state.learning.selected === question.correctChoice;
     state.learning.confirmed = true;
     recordAttempt("learning", question, state.learning.selected, correct);
-  }
-  if (action === "next-learning" || action === "prev-learning") {
+  } else if (action === "next-learning" || action === "prev-learning") {
     const list = learningQuestions();
     const delta = action === "next-learning" ? 1 : -1;
     state.learning.index = (state.learning.index + delta + list.length) % list.length;
     resetLearningChoices();
-  }
-  if (action === "select-mock") state.mock.selected = decodeURIComponent(target.dataset.choice);
-  if (action === "confirm-mock") {
+  } else if (action === "select-mock") {
+    state.mock.selected = decodeURIComponent(target.dataset.choice);
+  } else if (action === "confirm-mock") {
     const item = state.mock.questions[state.mock.index];
     const correct = state.mock.selected === item.question.correctChoice;
     state.mock.confirmed = true;
     state.mock.answers.push({ question: item.question, category: item.question.category, selected: state.mock.selected, correct });
     recordAttempt("mock", item.question, state.mock.selected, correct);
     if (shouldStopMock(state.mock.answers)) state.mock.stopped = true;
-  }
-  if (action === "next-mock") {
+  } else if (action === "next-mock") {
     state.mock.index += 1;
     state.mock.selected = "";
     state.mock.confirmed = false;
-  }
-  if (action === "clear-progress") {
+  } else if (action === "clear-progress") {
     state.progress = { attempts: [] };
     saveProgress();
+  } else {
+    handled = false;
   }
-  render();
+  if (handled) render();
 });
 
 document.addEventListener("input", (event) => {
