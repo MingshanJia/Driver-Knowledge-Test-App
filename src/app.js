@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "celebration-build-10",
+  buildVersion: "explanation-kb-11",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=10").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=10").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=10").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=11").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=11").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=11").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
