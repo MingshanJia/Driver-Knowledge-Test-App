@@ -11,6 +11,7 @@ const state = {
     index: 0,
     search: "",
     category: "all",
+    imagesOnly: false,
     selected: "",
     confirmed: false,
     shuffled: [],
@@ -27,9 +28,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json").then((res) => res.json()),
-    fetch("./public/data/handbook.json").then((res) => res.json()),
-    fetch("./public/data/metadata.json").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=3").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=3").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=3").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -62,8 +63,9 @@ function shuffle(items) {
 function byPromptSearch(question) {
   const needle = state.learning.search.trim().toLowerCase();
   const categoryOk = state.learning.category === "all" || question.category === state.learning.category;
-  if (!needle) return categoryOk;
-  return categoryOk && `${question.sourceCode} ${question.prompt} ${question.choices.join(" ")}`.toLowerCase().includes(needle);
+  const imageOk = !state.learning.imagesOnly || Boolean(question.imageId);
+  if (!needle) return categoryOk && imageOk;
+  return categoryOk && imageOk && `${question.sourceCode} ${question.prompt} ${question.choices.join(" ")}`.toLowerCase().includes(needle);
 }
 
 function learningQuestions() {
@@ -212,6 +214,7 @@ function filters() {
       <option value="all">All sections</option>
       ${Object.entries(labels).map(([value, label]) => `<option value="${value}" ${state.learning.category === value ? "selected" : ""}>${label}</option>`).join("")}
     </select></label>
+    <label class="check-filter"><input type="checkbox" data-action="images-only" ${state.learning.imagesOnly ? "checked" : ""} /> Images only</label>
   `;
 }
 
@@ -296,6 +299,11 @@ function renderQuestionImage(question) {
   `;
 }
 
+function renderThumb(question) {
+  if (!question.imageId) return "";
+  return `<img class="thumb" src="./public/${escapeHtml(question.imageId)}" alt="" loading="lazy" />`;
+}
+
 function renderBank() {
   const grouped = Object.entries(labels).map(([category, label]) => {
     const questions = state.questions.filter((question) => question.category === category);
@@ -303,7 +311,7 @@ function renderBank() {
       <section class="bank-group">
         <h2>${label}</h2>
         <div class="bank-grid">
-          ${questions.map((question) => `<article><b>${question.sourceCode}</b><p>${escapeHtml(question.prompt)}</p></article>`).join("")}
+          ${questions.map((question) => `<article>${renderThumb(question)}<b>${question.sourceCode}</b><p>${escapeHtml(question.prompt)}</p></article>`).join("")}
         </div>
       </section>
     `;
@@ -419,6 +427,12 @@ document.addEventListener("input", (event) => {
 document.addEventListener("change", (event) => {
   if (event.target.dataset.action === "category") {
     state.learning.category = event.target.value;
+    state.learning.index = 0;
+    resetLearningChoices();
+    render();
+  }
+  if (event.target.dataset.action === "images-only") {
+    state.learning.imagesOnly = event.target.checked;
     state.learning.index = 0;
     resetLearningChoices();
     render();
