@@ -211,9 +211,10 @@ select {
 
 .question-image {
   margin: 18px 0 8px;
-  display: flex;
+  display: grid;
+  gap: 6px;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: start;
 }
 
 .question-image img {
@@ -227,6 +228,11 @@ select {
   border: 1px solid #d7dee6;
   border-radius: 6px;
   padding: 10px;
+}
+
+.question-image figcaption {
+  color: #5b6a7b;
+  font-size: 13px;
 }
 
 .option {

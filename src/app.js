@@ -6,6 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
+  buildVersion: "image-build-4",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -28,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=3").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=3").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=3").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=4").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=4").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=4").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -158,10 +159,10 @@ function renderShell(content) {
       <aside class="sidebar">
         <div class="brand">
           <div class="mark">L</div>
-          <div>
-            <h1>NSW DKT Practice</h1>
-            <p>${state.metadata.questionCount || 0} questions loaded</p>
-          </div>
+        <div>
+          <h1>NSW DKT Practice</h1>
+            <p>${state.metadata.questionCount || 0} questions loaded · ${state.buildVersion}</p>
+        </div>
         </div>
         <nav>
           ${nav.map(([id, label]) => `<button class="${state.view === id ? "active" : ""}" data-action="nav" data-view="${id}">${label}</button>`).join("")}
@@ -295,6 +296,7 @@ function renderQuestionImage(question) {
   return `
     <figure class="question-image">
       <img src="./public/${escapeHtml(question.imageId)}" alt="Question illustration for ${escapeHtml(question.sourceCode)}" loading="lazy" />
+      <figcaption>${escapeHtml(question.sourceCode)} image</figcaption>
     </figure>
   `;
 }
