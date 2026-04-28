@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "explanation-build-7",
+  buildVersion: "handbook-build-8",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=7").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=7").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=7").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=8").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=8").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=8").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -222,15 +222,25 @@ function filters() {
 function renderResult(correct, question) {
   return `
     <div class="result ${correct ? "pass" : "fail"}">
-      <strong>${correct ? "Correct" : "Incorrect"}</strong>
-      <p>The correct answer is: ${escapeHtml(question.correctChoice)}</p>
+      <div class="result-head">
+        <strong>${correct ? "Correct" : "Incorrect"}</strong>
+        <p>The correct answer is: ${escapeHtml(question.correctChoice)}</p>
+      </div>
       <div class="reason">
         <h3>Reason</h3>
         ${renderExplanation(question)}
-        ${question.handbookRefs.length ? `<div class="references"><b>Handbook reference</b>${question.handbookRefs.map((ref) => `<span>${escapeHtml(ref.sectionTitle || "Road User Handbook")} · page ${ref.page}</span>`).join("")}</div>` : ""}
+        ${question.handbookRefs.length ? `<div class="references"><b>Handbook reference</b>${question.handbookRefs.map(renderHandbookRef).join("")}</div>` : ""}
       </div>
     </div>
   `;
+}
+
+function handbookUrl(page = 1) {
+  return `./public/assets/road-users-handbook-english.pdf#page=${encodeURIComponent(page)}`;
+}
+
+function renderHandbookRef(ref) {
+  return `<a href="${handbookUrl(ref.page)}" target="_blank" rel="noopener">${escapeHtml(ref.sectionTitle || "Road User Handbook")} · page ${ref.page}</a>`;
 }
 
 function fallbackReason(question) {
@@ -339,13 +349,31 @@ function renderBank() {
 }
 
 function renderHandbook() {
+  const sections = [];
+  const seen = new Set();
+  for (const chunk of state.handbook) {
+    const key = `${chunk.sectionTitle}-${chunk.page}`;
+    if (!chunk.sectionTitle || seen.has(key)) continue;
+    seen.add(key);
+    sections.push(chunk);
+  }
   return renderShell(`
     <section class="intro">
       <h2>Handbook Vault</h2>
-      <p>These chunks power the reasons shown in Learning Mode. Page numbers come from the local handbook PDF.</p>
+      <p>The original Road Users Handbook is the source of truth. Question references open the relevant PDF page directly.</p>
+      <div class="actions">
+        <a class="button-link primary" href="${handbookUrl(1)}" target="_blank" rel="noopener">Open handbook PDF</a>
+        <a class="button-link" href="./public/assets/road-users-handbook-english.pdf" download>Download PDF</a>
+      </div>
     </section>
-    <section class="handbook-list">
-      ${state.handbook.map((chunk) => `<article><b>Page ${chunk.page} · ${escapeHtml(chunk.sectionTitle || "Road User Handbook")}</b><p>${escapeHtml(chunk.text.slice(0, 520))}</p></article>`).join("")}
+    <section class="handbook-viewer">
+      <iframe title="Road Users Handbook PDF" src="${handbookUrl(1)}"></iframe>
+    </section>
+    <section class="bank-group">
+      <h2>Quick Page Links</h2>
+      <div class="handbook-links">
+        ${sections.slice(0, 80).map((chunk) => `<a href="${handbookUrl(chunk.page)}" target="_blank" rel="noopener">Page ${chunk.page} · ${escapeHtml(chunk.sectionTitle)}</a>`).join("")}
+      </div>
     </section>
   `);
 }

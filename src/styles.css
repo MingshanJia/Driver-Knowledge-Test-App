@@ -15,11 +15,13 @@ body {
 
 button,
 input,
-select {
+select,
+.button-link {
   font: inherit;
 }
 
-button {
+button,
+.button-link {
   border: 1px solid #c8d2dc;
   background: #ffffff;
   color: #17212b;
@@ -27,9 +29,14 @@ button {
   border-radius: 6px;
   padding: 0 14px;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
 
-button:hover:not(:disabled) {
+button:hover:not(:disabled),
+.button-link:hover {
   border-color: #385b82;
 }
 
@@ -269,8 +276,10 @@ select {
 .result {
   margin-top: 20px;
   border-radius: 8px;
-  padding: 18px;
+  padding: 16px 18px;
   border: 1px solid #d7dee6;
+  display: grid;
+  gap: 14px;
 }
 
 .result.pass {
@@ -283,20 +292,47 @@ select {
   border-color: #efb4ad;
 }
 
-.reason {
-  margin-top: 14px;
+.result-head {
   display: grid;
-  gap: 10px;
+  gap: 4px;
+}
+
+.result-head strong {
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.result-head p {
+  margin: 0;
+  color: #17212b;
+  line-height: 1.4;
+}
+
+.reason {
+  display: grid;
+  gap: 12px;
+}
+
+.reason h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  margin: 0;
 }
 
 .explanation-block {
   display: grid;
-  gap: 8px;
+  gap: 6px;
 }
 
 .explanation-block p {
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.42;
+  color: #243347;
+  font-size: 16px;
+}
+
+.explanation-block b {
+  color: #17212b;
 }
 
 .references {
@@ -308,11 +344,18 @@ select {
   font-size: 14px;
 }
 
-.references span {
+.references a {
   border: 1px solid #c9d5df;
   background: #ffffff;
   border-radius: 999px;
   padding: 5px 9px;
+  color: #174d83;
+  text-decoration: none;
+}
+
+.references a:hover {
+  border-color: #0b5cab;
+  text-decoration: underline;
 }
 
 .reason article,
@@ -337,7 +380,6 @@ select {
   padding: 6px;
 }
 
-.reason p,
 .handbook-list p,
 .bank-grid p,
 .review-list p {
@@ -379,6 +421,43 @@ select {
 .review-list {
   display: grid;
   gap: 12px;
+}
+
+.handbook-viewer {
+  background: #ffffff;
+  border: 1px solid #d7dee6;
+  border-radius: 8px;
+  overflow: hidden;
+  min-height: 640px;
+  margin-bottom: 18px;
+}
+
+.handbook-viewer iframe {
+  display: block;
+  width: 100%;
+  height: min(78vh, 860px);
+  min-height: 640px;
+  border: 0;
+}
+
+.handbook-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 8px;
+}
+
+.handbook-links a {
+  color: #174d83;
+  background: #f8fafc;
+  border: 1px solid #dfe6ee;
+  border-radius: 6px;
+  padding: 10px 12px;
+  text-decoration: none;
+}
+
+.handbook-links a:hover {
+  border-color: #0b5cab;
+  text-decoration: underline;
 }
 
 .bank-grid {
