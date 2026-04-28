@@ -6,7 +6,7 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "layout-build-9",
+  buildVersion: "celebration-build-10",
   progress: loadProgress(),
   learning: {
     index: 0,
@@ -29,9 +29,9 @@ const labels = {
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=9").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=9").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=9").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=10").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=10").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=10").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -419,6 +419,68 @@ function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" })[char]);
 }
 
+function celebrate(anchor) {
+  playCorrectSound();
+  const rect = anchor.getBoundingClientRect();
+  const originX = rect.left + rect.width / 2;
+  const originY = rect.top + rect.height / 2;
+  const colours = ["#0b5cab", "#ffc857", "#17874f", "#f25f5c", "#35a7ff"];
+  const layer = document.createElement("div");
+  layer.className = "celebration-layer";
+  document.body.appendChild(layer);
+
+  for (let i = 0; i < 34; i += 1) {
+    const particle = document.createElement("span");
+    const angle = Math.random() * Math.PI * 2;
+    const distance = 70 + Math.random() * 130;
+    const x = Math.cos(angle) * distance;
+    const y = Math.sin(angle) * distance - 35;
+    particle.className = "confetti";
+    particle.style.left = `${originX}px`;
+    particle.style.top = `${originY}px`;
+    particle.style.setProperty("--x", `${x}px`);
+    particle.style.setProperty("--y", `${y}px`);
+    particle.style.setProperty("--r", `${Math.random() * 360}deg`);
+    particle.style.background = colours[i % colours.length];
+    particle.style.animationDelay = `${Math.random() * 70}ms`;
+    layer.appendChild(particle);
+  }
+
+  for (let i = 0; i < 3; i += 1) {
+    const ring = document.createElement("span");
+    ring.className = "firework-ring";
+    ring.style.left = `${originX}px`;
+    ring.style.top = `${originY}px`;
+    ring.style.animationDelay = `${i * 90}ms`;
+    layer.appendChild(ring);
+  }
+
+  window.setTimeout(() => layer.remove(), 1000);
+}
+
+function playCorrectSound() {
+  const AudioContext = window.AudioContext || window.webkitAudioContext;
+  if (!AudioContext) return;
+  const context = new AudioContext();
+  const now = context.currentTime;
+  const gain = context.createGain();
+  gain.connect(context.destination);
+  gain.gain.setValueAtTime(0.0001, now);
+  gain.gain.exponentialRampToValueAtTime(0.08, now + 0.02);
+  gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
+
+  [523.25, 659.25, 783.99].forEach((frequency, index) => {
+    const oscillator = context.createOscillator();
+    oscillator.type = "sine";
+    oscillator.frequency.setValueAtTime(frequency, now + index * 0.075);
+    oscillator.connect(gain);
+    oscillator.start(now + index * 0.075);
+    oscillator.stop(now + 0.36 + index * 0.035);
+  });
+
+  window.setTimeout(() => context.close(), 650);
+}
+
 document.addEventListener("click", (event) => {
   const target = event.target.closest("[data-action]");
   if (!target) return;
@@ -436,6 +498,7 @@ document.addEventListener("click", (event) => {
     const correct = state.learning.selected === question.correctChoice;
     state.learning.confirmed = true;
     recordAttempt("learning", question, state.learning.selected, correct);
+    if (correct) celebrate(target);
   } else if (action === "next-learning" || action === "prev-learning") {
     const list = learningQuestions();
     const delta = action === "next-learning" ? 1 : -1;
@@ -449,6 +512,7 @@ document.addEventListener("click", (event) => {
     state.mock.confirmed = true;
     state.mock.answers.push({ question: item.question, category: item.question.category, selected: state.mock.selected, correct });
     recordAttempt("mock", item.question, state.mock.selected, correct);
+    if (correct) celebrate(target);
     if (shouldStopMock(state.mock.answers)) state.mock.stopped = true;
   } else if (action === "next-mock") {
     state.mock.index += 1;
