@@ -6,12 +6,12 @@ const state = {
   questions: [],
   handbook: [],
   metadata: {},
-  buildVersion: "explanation-kb-11",
+  buildVersion: "image-section-build-12",
   progress: loadProgress(),
   learning: {
     index: 0,
     search: "",
-    category: "all",
+    section: "all",
     imagesOnly: false,
     selected: "",
     confirmed: false,
@@ -20,18 +20,19 @@ const state = {
   mock: null,
 };
 
-const labels = {
-  general: "General Knowledge",
-  road_safety: "Road Safety",
-  traffic_signs: "Traffic Signs",
-  other: "Other",
-};
+function sectionName(question) {
+  return question.sectionName || question.category || "Other";
+}
+
+function sectionOptions() {
+  return [...new Set(state.questions.map(sectionName))].sort((a, b) => a.localeCompare(b));
+}
 
 async function init() {
   const [questions, handbook, metadata] = await Promise.all([
-    fetch("./public/data/questions.json?v=11").then((res) => res.json()),
-    fetch("./public/data/handbook.json?v=11").then((res) => res.json()),
-    fetch("./public/data/metadata.json?v=11").then((res) => res.json()),
+    fetch("./public/data/questions.json?v=12").then((res) => res.json()),
+    fetch("./public/data/handbook.json?v=12").then((res) => res.json()),
+    fetch("./public/data/metadata.json?v=12").then((res) => res.json()),
   ]);
   state.questions = questions;
   state.handbook = handbook;
@@ -63,10 +64,10 @@ function shuffle(items) {
 
 function byPromptSearch(question) {
   const needle = state.learning.search.trim().toLowerCase();
-  const categoryOk = state.learning.category === "all" || question.category === state.learning.category;
-  const imageOk = !state.learning.imagesOnly || Boolean(question.imageId);
-  if (!needle) return categoryOk && imageOk;
-  return categoryOk && imageOk && `${question.sourceCode} ${question.prompt} ${question.choices.join(" ")}`.toLowerCase().includes(needle);
+  const sectionOk = state.learning.section === "all" || sectionName(question) === state.learning.section;
+  const imageOk = !state.learning.imagesOnly || Boolean(question.imageId || question.imageIds?.length);
+  if (!needle) return sectionOk && imageOk;
+  return sectionOk && imageOk && `${question.sourceCode} ${sectionName(question)} ${question.prompt} ${question.choices.join(" ")}`.toLowerCase().includes(needle);
 }
 
 function learningQuestions() {
@@ -94,6 +95,7 @@ function recordAttempt(mode, question, selected, correct) {
     selectedChoice: selected,
     correct,
     category: question.category,
+    sectionName: sectionName(question),
     answeredAt: new Date().toISOString(),
   });
   saveProgress();
@@ -124,10 +126,10 @@ function progressSummary() {
   const byQuestion = new Map();
   learning.forEach((attempt) => byQuestion.set(attempt.questionId, attempt));
   const missedIds = new Set(learning.filter((attempt) => !attempt.correct).map((attempt) => attempt.questionId));
-  const categories = Object.keys(labels).map((category) => {
-    const catAttempts = attempts.filter((attempt) => attempt.category === category);
+  const categories = sectionOptions().map((section) => {
+    const catAttempts = attempts.filter((attempt) => (attempt.sectionName || attempt.category) === section);
     const correct = catAttempts.filter((attempt) => attempt.correct).length;
-    return { category, total: catAttempts.length, correct };
+    return { category: section, total: catAttempts.length, correct };
   });
   return {
     attempts,
@@ -192,7 +194,7 @@ function renderLearning() {
       <div class="counter">Question ${state.learning.index + 1} of ${list.length}</div>
     </section>
     <section class="question-panel">
-      <div class="eyebrow">${question.sourceCode} · ${labels[question.category] || "Question"}</div>
+      <div class="eyebrow">${question.sourceCode} · ${escapeHtml(sectionName(question))}</div>
       <h2>${escapeHtml(question.prompt)}</h2>
       ${renderQuestionImage(question)}
       <div class="options">
@@ -211,9 +213,9 @@ function renderLearning() {
 function filters() {
   return `
     <label class="search"><span>Search</span><input data-action="search" value="${escapeHtml(state.learning.search)}" placeholder="Question, answer, code" /></label>
-    <label><span>Category</span><select data-action="category">
+    <label><span>Section</span><select data-action="section">
       <option value="all">All sections</option>
-      ${Object.entries(labels).map(([value, label]) => `<option value="${value}" ${state.learning.category === value ? "selected" : ""}>${label}</option>`).join("")}
+      ${sectionOptions().map((section) => `<option value="${escapeHtml(section)}" ${state.learning.section === section ? "selected" : ""}>${escapeHtml(section)}</option>`).join("")}
     </select></label>
     <label class="check-filter"><input type="checkbox" data-action="images-only" ${state.learning.imagesOnly ? "checked" : ""} /> Images only</label>
   `;
@@ -283,7 +285,7 @@ function renderMock() {
       <div><b>${summary.generalWrong + summary.roadSafetyWrong}</b><span>Wrong</span></div>
     </section>
     <section class="question-panel">
-      <div class="eyebrow">${labels[question.category]} · ${question.sourceCode}</div>
+      <div class="eyebrow">${escapeHtml(sectionName(question))} · ${question.sourceCode}</div>
       <h2>${escapeHtml(question.prompt)}</h2>
       ${renderQuestionImage(question)}
       <div class="options">
@@ -318,26 +320,30 @@ function renderMockSummary(summary, answers) {
 }
 
 function renderQuestionImage(question) {
-  if (!question.imageId) return "";
+  const imageIds = question.imageIds?.length ? question.imageIds : (question.imageId ? [question.imageId] : []);
+  if (!imageIds.length) return "";
+  const [mainImage, ...extraImages] = imageIds;
   return `
     <figure class="question-image">
-      <img src="./public/${escapeHtml(question.imageId)}" alt="Question illustration for ${escapeHtml(question.sourceCode)}" loading="lazy" />
+      <img src="./public/${escapeHtml(mainImage)}" alt="Question illustration for ${escapeHtml(question.sourceCode)}" loading="lazy" />
+      ${extraImages.length ? `<div class="image-strip">${extraImages.map((imageId) => `<img src="./public/${escapeHtml(imageId)}" alt="" loading="lazy" />`).join("")}</div>` : ""}
       <figcaption>${escapeHtml(question.sourceCode)} image</figcaption>
     </figure>
   `;
 }
 
 function renderThumb(question) {
-  if (!question.imageId) return "";
-  return `<img class="thumb" src="./public/${escapeHtml(question.imageId)}" alt="" loading="lazy" />`;
+  const imageId = question.imageIds?.[0] || question.imageId;
+  if (!imageId) return "";
+  return `<img class="thumb" src="./public/${escapeHtml(imageId)}" alt="" loading="lazy" />`;
 }
 
 function renderBank() {
-  const grouped = Object.entries(labels).map(([category, label]) => {
-    const questions = state.questions.filter((question) => question.category === category);
+  const grouped = sectionOptions().map((section) => {
+    const questions = state.questions.filter((question) => sectionName(question) === section);
     return `
       <section class="bank-group">
-        <h2>${label}</h2>
+        <h2>${escapeHtml(section)}</h2>
         <div class="bank-grid">
           ${questions.map((question) => `<article>${renderThumb(question)}<b>${question.sourceCode}</b><p>${escapeHtml(question.prompt)}</p></article>`).join("")}
         </div>
@@ -386,11 +392,11 @@ function renderProgress() {
       <article><b>${summary.missed.length}</b><span>Retry list</span></article>
     </section>
     <section class="bank-group">
-      <h2>Category Accuracy</h2>
+      <h2>Section Accuracy</h2>
       <div class="progress-bars">
         ${summary.categories.map((item) => {
           const pct = item.total ? Math.round((item.correct / item.total) * 100) : 0;
-          return `<div><span>${labels[item.category]}</span><meter min="0" max="100" value="${pct}"></meter><b>${pct}%</b></div>`;
+          return `<div><span>${escapeHtml(item.category)}</span><meter min="0" max="100" value="${pct}"></meter><b>${pct}%</b></div>`;
         }).join("")}
       </div>
     </section>
@@ -537,8 +543,8 @@ document.addEventListener("input", (event) => {
 });
 
 document.addEventListener("change", (event) => {
-  if (event.target.dataset.action === "category") {
-    state.learning.category = event.target.value;
+  if (event.target.dataset.action === "section") {
+    state.learning.section = event.target.value;
     state.learning.index = 0;
     resetLearningChoices();
     render();

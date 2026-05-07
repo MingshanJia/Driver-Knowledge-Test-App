@@ -7,9 +7,23 @@
     "road_safety": 224,
     "traffic_signs": 51
   },
+  "sectionCounts": {
+    "ICAC": 3,
+    "General Knowledge": 79,
+    "Alcohol and Drugs": 20,
+    "Bicycle Safety": 3,
+    "Fatigue and Defensive Driving": 24,
+    "Intersections": 51,
+    "Traffic Lights / Lanes": 44,
+    "Negligent Driving": 29,
+    "Pedestrians": 28,
+    "Seat Belts / Restraints": 12,
+    "Speed Limits": 13,
+    "Traffic Signs": 51
+  },
   "notes": [
     "The official PDF presents the correct choice first; the app shuffles choices in the UI.",
     "Handbook references are matched from local handbook text and should be reviewed for high-stakes use.",
-    "Images are extracted from the source PDF and matched to visual questions by page/order. Review image-map.json for exact official-quality mappings."
+    "Images are extracted from the source PDF and mapped by PDF page coordinates to the owning question band."
   ]
 }

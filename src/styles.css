@@ -242,6 +242,18 @@ select {
   padding: 10px;
 }
 
+.image-strip {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.image-strip img {
+  max-width: 120px;
+  max-height: 90px;
+  padding: 6px;
+}
+
 .question-image figcaption {
   color: #5b6a7b;
   font-size: 13px;
